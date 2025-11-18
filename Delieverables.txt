@@ -1,0 +1,27 @@
+1. Decision on the topic:
+	Why we chose this topic.
+	Present the motivation for the topic, where we got the idea for it.
+
+2. Data Description:
+	Explain where we gathered the data. Data collection process. Challenges faced. Why was dataset approved. 
+	Dataset description - Columns, features, how you downloaded, now of rows, data types of columns, panel data(2d or 3d data).
+
+3. Data analysis:
+	Pre-processing - cleaning, duplicates, missing values, feature engineering, extracted new from existing 
+	Implementation - descriptive stats, regression, time-series, hypothesis testing, NLP, Classification Model, etc. 
+	PCA - Reduce the number of columns, using PCA(Principal Component Analysis)
+	Visualizations and EDA
+	Questions and answers(30)
+
+4. Result and Conclusion:
+	The result and conclusion derived from the EDA, visualizations, questions answered.
+	Answer to your problem statement.
+
+Deliverables:
+
+PPT (about the project for 15-20 mins)
+Markdown file, or doc file(Documentation of the project, steps, chapter wise)
+Code file(.ipynb)
+Dataset file(.csv or .xlsx)
+	
+	

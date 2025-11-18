@@ -1,0 +1,613 @@
+﻿Id,Name,Weight(kg),Height(cm),Age,Citizenship,Team,Jersey,Position,Appearances,SubIns,Total PlayTime (min),AveragePlayTime (min),FoulsCommitted,FoulsSuffered,OwnGoals,OffSides,YellowCards,RedCards,GoalAssists,ShotsOnTarget,TotalShots,TotalGoals,GoalsConceded,ShotsFaced,UpdateTime
+14500,Mohamed Salah,71,175,32,Egypt,Liverpool,11,Forward,19,0,1777,94,10,25,0,4,1,0,14,36,71,18,19,0,01-06-2025 05:40
+14536,Erling Haaland,87,193,24,Norway,Manchester City,9,Forward,20,0,1909,96,14,12,0,1,2,0,1,41,83,16,26,0,01-05-2025 05:43
+14306,Cole Palmer,76,188,22,England,Chelsea,20,Midfielder,20,0,1862,93,10,41,0,5,3,0,6,25,72,13,24,0,01-05-2025 05:43
+14602,Alexander Isak,77,193,25,Sweden,Newcastle United,14,Forward,18,0,1545,86,14,9,0,2,1,0,4,25,53,13,19,0,01-05-2025 05:43
+14238,Bryan Mbeumo,63,173,25,Cameroon,Brentford,19,Midfielder,20,0,1898,95,14,22,0,2,2,0,4,20,35,13,32,0,01-05-2025 05:43
+14624,Chris Wood,81,191,33,New Zealand,Nottingham Forest,11,Forward,20,1,1632,82,12,13,0,3,1,0,1,19,34,12,16,0,01-07-2025 05:42
+14760,Matheus Cunha,76,183,25,Brazil,Wolverhampton Wanderers,10,Forward,19,1,1673,88,22,37,0,5,2,0,4,18,53,10,36,0,12-30-24 05:52
+14232,Yoane Wissa,73,175,28,Congo DR,Brentford,11,Midfielder,17,1,1358,80,13,25,0,2,2,0,2,19,37,10,22,0,01-05-2025 05:43
+14320,Nicolas Jackson,78,185,23,Senegal,Chelsea,15,Forward,19,1,1482,78,16,19,0,2,4,0,4,21,48,9,15,0,01-05-2025 05:43
+14209,Ollie Watkins,74,180,29,England,Aston Villa,11,Forward,20,4,1432,72,20,24,0,1,0,0,5,23,53,8,26,0,01-05-2025 05:43
+14685,James Maddison,73,175,28,England,Tottenham Hotspur,10,Midfielder,20,6,1227,61,17,43,0,2,4,0,4,16,31,8,18,0,01-05-2025 05:43
+14442,Liam Delap,72,185,21,England,Ipswich Town,19,Forward,19,1,1467,77,39,29,0,1,6,0,2,17,34,8,23,0,01-06-2025 05:40
+14504,Luis Díaz,64,178,27,Colombia,Liverpool,7,Forward,18,5,1185,66,26,16,0,1,1,0,2,16,36,8,10,0,01-06-2025 05:40
+14410,Raúl Jiménez,76,191,33,Mexico,Fulham,7,Forward,20,5,1280,64,19,24,0,1,2,0,2,20,47,8,17,0,01-06-2025 05:40
+14696,Dominic Solanke,79,188,27,England,Tottenham Hotspur,19,Forward,17,0,1624,96,25,24,0,1,0,0,3,19,43,7,27,0,01-05-2025 05:43
+14697,Brennan Johnson,73,185,23,Wales,Tottenham Hotspur,22,Forward,20,4,1542,77,16,14,0,2,3,0,2,16,43,7,21,0,01-05-2025 05:43
+14758,Jørgen Strand Larsen,78,193,24,Norway,Wolverhampton Wanderers,9,Forward,20,1,1695,85,23,12,0,0,2,0,2,21,31,7,36,0,01-07-2025 05:42
+14174,Kai Havertz,83,193,25,Germany,Arsenal,29,Forward,17,0,1585,93,30,17,0,2,3,0,2,15,38,7,16,0,12-28-24 05:47
+14211,Jhon Durán,73,185,21,Colombia,Aston Villa,9,Forward,18,14,769,43,13,14,0,1,3,1,0,15,29,7,13,0,12-27-24 05:48
+14471,Jamie Vardy,73,178,37,England,Leicester City,9,Forward,18,0,1543,86,14,9,0,3,4,0,3,12,30,6,35,0,01-05-2025 05:43
+14210,Morgan Rogers,79,188,22,England,Aston Villa,27,Forward,19,0,1643,87,25,28,0,0,5,0,3,10,35,6,24,0,12-31-24 05:43
+14503,Cody Gakpo,76,193,25,Netherlands,Liverpool,18,Forward,19,8,1062,56,10,13,0,2,4,0,2,12,31,6,12,0,01-06-2025 05:40
+14277,Danny Welbeck,73,185,34,England,Brighton & Hove Albion,18,Forward,14,1,1160,83,6,13,0,0,1,0,2,12,35,6,16,0,12-09-2024 12:52
+14140,Justin Kluivert,67,170,25,Netherlands,AFC Bournemouth,19,Forward,19,3,1223,64,27,13,0,4,5,0,2,18,35,6,14,0,01-05-2025 05:43
+14176,Bukayo Saka,72,178,23,England,Arsenal,7,Forward,16,0,1326,83,13,32,0,3,3,0,10,18,46,5,13,0,12-22-24 05:54
+14693,Son Heung-Min,78,183,32,South Korea,Tottenham Hotspur,7,Forward,17,2,1313,77,3,16,0,1,0,0,6,17,34,5,21,0,01-05-2025 05:43
+14279,João Pedro,69,183,23,Brazil,Brighton & Hove Albion,9,Forward,14,2,1106,79,8,30,0,1,1,0,5,10,24,5,11,0,01-05-2025 05:43
+14603,Anthony Gordon,72,183,23,England,Newcastle United,10,Forward,19,1,1552,82,15,42,0,5,1,0,4,15,38,5,14,0,01-05-2025 05:43
+14688,Dejan Kulusevski,79,185,24,Sweden,Tottenham Hotspur,21,Midfielder,20,2,1721,86,28,27,0,2,3,0,4,11,32,5,27,0,01-05-2025 05:43
+14726,Jarrod Bowen,69,175,28,England,West Ham United,20,Forward,19,0,1771,93,14,23,0,3,1,0,4,21,50,5,32,0,12-30-24 05:52
+14411,Alex Iwobi,74,180,28,Nigeria,Fulham,17,Forward,20,0,1812,91,11,14,0,5,1,0,3,16,38,5,23,0,01-06-2025 05:40
+14175,Gabriel Martinelli,74,178,23,Brazil,Arsenal,11,Forward,18,5,1233,69,8,11,0,2,1,0,3,11,23,5,12,0,01-05-2025 05:43
+14319,Noni Madueke,74,183,22,England,Chelsea,11,Forward,18,4,1170,65,12,14,0,4,3,0,3,22,52,5,16,0,01-05-2025 05:43
+14141,Antoine Semenyo,78,185,25,Ghana,AFC Bournemouth,24,Forward,19,0,1756,92,36,24,0,7,5,0,2,22,81,5,20,0,01-05-2025 05:43
+14240,Kevin Schade,73,183,23,Germany,Brentford,7,Midfielder,20,10,1015,51,10,13,0,0,2,0,2,10,22,5,16,0,01-05-2025 05:43
+14595,Harvey Barnes,66,175,27,England,Newcastle United,11,Midfielder,20,14,890,45,8,11,0,1,0,0,1,10,27,5,12,0,01-05-2025 05:43
+14351,Jean-Philippe Mateta,87,193,27,France,Crystal Palace,14,Forward,20,2,1603,80,16,17,0,0,2,0,1,12,39,5,22,0,01-05-2025 05:43
+14137,Evanilson,79,183,25,Brazil,AFC Bournemouth,9,Forward,19,2,1403,74,21,34,0,2,0,0,0,20,43,5,18,0,01-05-2025 05:43
+14404,Harry Wilson,63,173,27,Wales,Fulham,8,Midfielder,16,11,702,44,8,11,0,0,2,0,0,8,22,5,10,0,01-06-2025 05:40
+14556,Bruno Fernandes,66,178,30,Portugal,Manchester United,8,Midfielder,19,0,1772,93,16,24,0,5,2,2,6,13,52,4,25,0,01-06-2025 05:40
+14621,Morgan Gibbs-White,66,170,24,England,Nottingham Forest,10,Midfielder,16,0,1297,81,24,16,0,7,5,1,3,13,28,4,12,0,01-07-2025 05:42
+14501,Diogo Jota,68,178,28,Portugal,Liverpool,20,Forward,12,5,658,55,10,9,0,1,1,0,2,7,21,4,4,0,01-06-2025 05:40
+14465,Facundo Buonanotte,66,175,20,Argentina,Leicester City,40,Midfielder,17,6,1128,66,23,24,0,3,5,0,2,9,22,4,22,0,01-05-2025 05:43
+14350,Ismaïla Sarr,76,185,26,Senegal,Crystal Palace,7,Forward,20,7,1348,67,7,30,0,2,3,0,2,18,31,4,17,0,01-05-2025 05:43
+14601,Joelinton,81,185,28,Brazil,Newcastle United,7,Forward,19,0,1688,89,40,19,0,2,7,0,1,11,34,4,19,0,01-05-2025 05:43
+14566,Marcus Rashford,69,180,27,England,Manchester United,10,Forward,15,3,1019,68,8,7,0,0,2,0,1,8,16,4,9,0,12-31-24 05:43
+14716,Tomás Soucek,86,193,29,Czechia,West Ham United,28,Midfielder,18,3,1450,81,24,11,0,1,5,0,1,8,32,4,24,0,01-05-2025 05:43
+14469,Jordan Ayew,79,183,33,Ghana,Leicester City,18,Forward,18,8,991,55,20,35,0,0,5,0,0,6,19,4,24,0,01-05-2025 05:43
+14518,Josko Gvardiol,79,185,22,Croatia,Manchester City,24,Defender,19,1,1782,94,8,14,0,4,1,0,0,7,27,4,23,0,01-05-2025 05:43
+14434,Sammie Szmodics,63,168,29,Republic of Ireland,Ipswich Town,23,Midfielder,18,5,1014,56,8,8,0,0,2,0,0,12,21,4,17,0,01-06-2025 05:40
+14592,Jacob Murphy,73,178,29,England,Newcastle United,23,Midfielder,17,4,1075,63,5,4,0,3,2,0,7,6,20,3,11,0,01-05-2025 05:43
+14569,Amad,72,173,22,Ivory Coast,Manchester United,16,Forward,18,5,1323,74,15,16,0,3,3,0,6,10,29,3,19,0,01-06-2025 05:40
+14737,Rayan Aït-Nouri,69,180,23,Algeria,Wolverhampton Wanderers,3,Defender,19,0,1732,91,18,20,0,4,5,1,5,4,17,3,41,0,01-07-2025 05:42
+14628,Anthony Elanga,69,178,22,Sweden,Nottingham Forest,21,Forward,20,6,1191,60,3,19,0,1,1,0,4,9,19,3,12,0,01-07-2025 05:42
+14386,Dwight McNeil,68,183,25,England,Everton,7,Forward,13,0,1205,93,6,13,0,2,1,0,4,8,23,3,21,0,12-05-2024 05:59
+14303,Enzo Fernández,76,178,23,Argentina,Chelsea,8,Midfielder,19,4,1537,81,22,20,0,5,3,0,4,8,22,3,19,0,01-05-2025 05:43
+14143,Dango Ouattara,71,178,22,Burkina Faso,AFC Bournemouth,11,Forward,17,9,974,57,5,6,0,0,0,0,3,8,29,3,7,0,01-05-2025 05:43
+14492,Curtis Jones,78,185,23,England,Liverpool,17,Midfielder,16,6,909,57,9,15,0,1,1,0,2,10,17,3,13,0,01-06-2025 05:40
+14409,Emile Smith Rowe,78,183,24,England,Fulham,32,Midfielder,18,4,1174,65,9,10,0,2,1,0,2,4,18,3,14,0,01-06-2025 05:40
+14269,Kaoru Mitoma,73,178,27,Japan,Brighton & Hove Albion,22,Midfielder,20,3,1657,83,22,14,0,2,0,0,2,13,34,3,23,0,01-05-2025 05:43
+14172,Leandro Trossard,60,173,30,Belgium,Arsenal,19,Forward,20,8,1240,62,8,13,0,5,1,1,2,8,26,3,12,0,01-05-2025 05:43
+14572,Alejandro Garnacho,73,180,20,Argentina,Manchester United,17,Forward,19,9,1134,60,5,21,0,1,1,0,1,16,39,3,19,0,01-06-2025 05:40
+14152,Gabriel Magalhães,78,191,27,Brazil,Arsenal,6,Defender,18,0,1647,92,12,11,0,0,2,0,1,5,17,3,16,0,01-05-2025 05:43
+14567,Joshua Zirkzee,83,193,23,Netherlands,Manchester United,11,Forward,20,13,815,41,5,3,0,1,1,0,1,8,16,3,11,0,01-06-2025 05:40
+14721,Mohammed Kudus,69,178,24,Ghana,West Ham United,14,Midfielder,15,0,1288,86,15,26,0,1,0,1,1,14,46,3,25,0,01-05-2025 05:43
+14415,Rodrigo Muniz,67,178,23,Brazil,Fulham,9,Forward,19,14,711,37,8,18,0,1,1,0,1,9,21,3,11,0,01-06-2025 05:40
+14197,Ross Barkley,76,188,31,England,Aston Villa,6,Midfielder,16,13,662,41,9,3,0,1,3,0,1,4,14,3,9,0,01-05-2025 05:43
+14473,Stephy Mavididi,71,183,26,England,Leicester City,10,Forward,19,7,1183,62,13,13,0,3,2,0,1,5,16,3,27,0,01-05-2025 05:43
+14173,Gabriel Jesus,73,175,27,Brazil,Arsenal,9,Forward,17,11,700,41,13,10,0,3,4,0,0,6,17,3,5,0,01-05-2025 05:43
+14385,Iliman Ndiaye,69,180,24,Senegal,Everton,10,Forward,19,2,1590,84,11,30,0,0,2,0,0,7,19,3,17,0,01-05-2025 05:43
+14717,Lucas Paquetá,72,180,27,Brazil,West Ham United,10,Midfielder,19,3,1454,77,29,23,0,3,5,0,0,4,28,3,32,0,01-05-2025 05:43
+14525,Mateo Kovacic,78,178,30,Croatia,Manchester City,8,Midfielder,16,2,1294,81,11,12,0,2,4,0,0,5,25,3,17,0,01-05-2025 05:43
+14333,Trevoh Chalobah,74,191,25,England,Crystal Palace,27,Defender,12,0,1120,93,10,15,0,0,1,0,0,3,10,3,11,0,12-30-24 05:52
+14239,Mikkel Damsgaard,66,180,24,Denmark,Brentford,24,Midfielder,20,3,1503,75,7,15,0,5,1,0,7,7,17,2,25,0,01-05-2025 05:43
+14527,Bernardo Silva,64,173,30,Portugal,Manchester City,20,Midfielder,20,2,1775,89,14,20,0,1,4,0,4,8,24,2,25,0,01-05-2025 05:43
+14756,Goncalo Guedes,68,178,28,Portugal,Wolverhampton Wanderers,29,Forward,17,13,643,38,11,10,0,2,1,0,4,5,12,2,14,0,01-07-2025 05:42
+14317,Jadon Sancho,76,180,24,England,Chelsea,19,Forward,14,4,928,66,3,6,0,0,1,0,4,4,12,2,12,0,01-05-2025 05:43
+14679,Pedro Porro,68,173,25,Spain,Tottenham Hotspur,23,Defender,20,3,1764,88,11,18,0,4,2,0,4,6,28,2,28,0,01-05-2025 05:43
+14344,Eberechi Eze,73,178,26,England,Crystal Palace,10,Midfielder,16,0,1392,87,6,28,0,9,1,0,3,15,55,2,15,0,01-05-2025 05:43
+14537,Jérémy Doku,66,173,22,Belgium,Manchester City,11,Forward,14,6,739,53,3,18,0,2,0,0,3,4,15,2,7,0,01-05-2025 05:43
+14524,Kevin De Bruyne,68,180,33,Belgium,Manchester City,17,Midfielder,13,4,873,67,9,10,0,4,2,0,3,8,28,2,8,0,01-05-2025 05:43
+14664,Adam Armstrong,68,173,27,England,Southampton,9,Forward,17,4,1182,70,10,5,0,2,4,0,2,6,22,2,26,0,01-05-2025 05:43
+14627,Callum Hudson-Odoi,76,183,24,England,Nottingham Forest,14,Forward,18,2,1452,81,7,13,0,2,1,0,2,8,24,2,12,0,01-07-2025 05:42
+14505,Darwin Núñez,81,188,25,Uruguay,Liverpool,9,Forward,15,8,822,55,18,11,0,1,5,0,2,8,21,2,13,0,01-06-2025 05:40
+14494,Dominik Szoboszlai,73,185,24,Hungary,Liverpool,8,Midfielder,17,5,1222,72,21,11,0,0,5,0,2,8,26,2,12,0,12-27-24 05:48
+14278,Georginio Rutter,83,183,22,France,Brighton & Hove Albion,14,Forward,19,6,1141,60,25,31,0,1,2,0,2,6,34,2,18,0,01-05-2025 05:43
+14257,Tariq Lamptey,54,163,24,Ghana,Brighton & Hove Albion,2,Defender,7,3,383,55,3,3,0,1,0,0,2,2,3,2,10,0,01-05-2025 05:43
+14164,Thomas Partey,77,185,31,Ghana,Arsenal,5,Midfielder,19,3,1595,84,26,17,0,2,2,0,2,5,17,2,16,0,01-05-2025 05:43
+14405,Andreas Pereira,71,178,29,Brazil,Fulham,18,Midfielder,18,3,1209,67,15,15,0,3,6,0,1,7,23,2,15,0,01-06-2025 05:40
+14275,Carlos Baleba,73,178,21,Cameroon,Brighton & Hove Albion,20,Midfielder,17,2,1356,80,23,23,0,1,4,1,1,7,24,2,18,0,01-05-2025 05:43
+14315,Christopher Nkunku,68,178,27,France,Chelsea,18,Forward,18,15,520,29,9,5,0,0,1,0,1,6,15,2,9,0,01-05-2025 05:43
+14331,Daniel Muñoz,73,180,28,Colombia,Crystal Palace,12,Defender,19,0,1721,91,26,10,0,2,5,0,1,8,19,2,21,0,01-05-2025 05:43
+14124,Dean Huijsen,87,196,19,Spain,AFC Bournemouth,2,Defender,14,5,982,70,10,1,0,1,3,0,1,2,9,2,8,0,01-05-2025 05:43
+14383,Dominic Calvert-Lewin,71,188,27,England,Everton,9,Forward,19,3,1432,75,20,18,0,0,1,0,1,15,37,2,14,0,01-05-2025 05:43
+14138,Enes Ünal,78,188,27,Turkey,AFC Bournemouth,26,Forward,17,15,444,26,6,9,0,1,2,0,1,7,20,2,3,0,01-05-2025 05:43
+14454,James Justin,79,183,26,England,Leicester City,2,Defender,19,0,1768,93,9,27,0,1,2,0,1,5,18,2,40,0,01-05-2025 05:43
+14752,João Gomes,73,175,23,Brazil,Wolverhampton Wanderers,8,Midfielder,19,0,1681,89,44,17,0,2,6,0,1,6,18,2,37,0,01-07-2025 05:42
+14334,Marc Guéhi,79,183,24,England,Crystal Palace,6,Defender,19,0,1826,96,10,14,2,4,5,0,1,6,12,2,25,0,01-05-2025 05:43
+14166,Mikel Merino,83,188,28,Spain,Arsenal,23,Midfielder,13,6,726,56,18,9,0,2,2,0,1,5,12,2,7,0,01-05-2025 05:43
+14226,Nathan Collins,83,193,23,Republic of Ireland,Brentford,22,Defender,20,0,1926,96,12,14,0,3,2,0,1,5,13,2,34,0,01-05-2025 05:43
+14725,Niclas Füllkrug,83,188,31,Germany,West Ham United,11,Forward,9,6,420,47,9,3,0,0,1,0,1,3,8,2,10,0,01-05-2025 05:43
+14612,Nikola Milenkovic,89,196,27,Serbia,Nottingham Forest,31,Defender,19,0,1854,98,8,3,0,7,2,0,1,4,19,2,18,0,01-07-2025 05:42
+14443,Omari Hutchinson,64,175,21,England,Ipswich Town,20,Forward,18,0,1604,89,15,25,0,4,4,0,1,8,23,2,27,0,12-31-24 05:43
+14529,Phil Foden,63,170,24,England,Manchester City,47,Midfielder,15,4,1143,76,3,22,0,1,2,0,1,9,34,2,17,0,01-05-2025 05:43
+14686,Rodrigo Bentancur,72,188,27,Uruguay,Tottenham Hotspur,30,Midfielder,12,3,730,61,17,3,0,0,5,0,1,3,13,2,12,0,12-30-24 05:52
+14281,Simon Adingra,68,175,23,Ivory Coast,Brighton & Hove Albion,11,Forward,14,9,557,40,7,0,0,1,0,0,1,4,11,2,8,0,01-05-2025 05:43
+14282,Yankuba Minteh,64,180,20,Gambia,Brighton & Hove Albion,17,Forward,15,9,700,47,9,4,0,2,3,0,1,3,11,2,10,0,01-05-2025 05:43
+14710,Aaron Wan-Bissaka,72,183,27,England,West Ham United,29,Defender,19,1,1749,92,14,11,0,1,0,0,0,3,11,2,35,0,01-05-2025 05:43
+14204,Amadou Onana,76,196,23,Belgium,Aston Villa,24,Midfielder,14,2,964,69,20,13,0,1,3,0,0,4,9,2,19,0,01-05-2025 05:43
+14668,Cameron Archer,72,180,23,England,Southampton,19,Forward,19,10,1027,54,8,10,0,0,0,0,0,6,21,2,21,0,01-05-2025 05:43
+14127,David Brooks,62,173,27,Wales,AFC Bournemouth,7,Midfielder,13,11,334,26,5,3,0,0,2,0,0,5,12,2,4,0,01-05-2025 05:43
+14169,Ethan Nwaneri,69,175,17,England,Arsenal,53,Midfielder,12,10,307,26,3,3,0,1,1,0,0,3,6,2,1,0,01-05-2025 05:43
+14223,Ethan Pinnock,78,188,31,Jamaica,Brentford,5,Defender,16,0,1543,96,5,3,1,0,2,0,0,6,10,2,29,0,12-16-24 05:54
+14583,Fabian Schär,83,185,33,Switzerland,Newcastle United,5,Defender,17,0,1646,97,15,8,0,6,5,1,0,2,17,2,19,0,12-31-24 05:43
+14757,Hwang Hee-Chan,77,178,28,South Korea,Wolverhampton Wanderers,11,Forward,14,10,580,41,4,7,0,1,0,0,0,2,4,2,14,0,01-07-2025 05:42
+14652,Joe Aribo,76,183,28,Nigeria,Southampton,7,Midfielder,19,8,1221,64,12,21,0,1,0,0,0,5,12,2,30,0,01-05-2025 05:43
+14514,John Stones,79,188,30,England,Manchester City,5,Defender,8,4,367,46,2,1,0,0,1,0,0,2,2,2,6,0,12-22-24 05:54
+14362,Michael Keane,82,191,31,England,Everton,5,Defender,9,0,872,97,8,0,0,4,4,0,0,2,7,2,16,0,01-05-2025 05:43
+14611,Ola Aina,82,183,28,Nigeria,Nottingham Forest,34,Defender,20,0,1866,93,13,22,0,2,2,0,0,2,7,2,18,0,01-07-2025 05:42
+14571,Rasmus Højlund,86,191,21,Denmark,Manchester United,9,Forward,15,4,1025,68,7,16,0,1,1,0,0,6,12,2,18,0,01-06-2025 05:40
+14658,Tyler Dibling,72,178,18,England,Southampton,33,Midfielder,19,6,1261,66,20,36,0,3,5,0,0,7,18,2,31,0,01-05-2025 05:43
+14155,William Saliba,92,193,23,France,Arsenal,2,Defender,19,0,1838,97,16,9,0,3,2,1,0,2,3,2,16,0,01-05-2025 05:43
+14687,Yves Bissouma,79,183,28,Mali,Tottenham Hotspur,8,Midfielder,16,6,994,62,15,14,0,2,5,0,0,2,5,2,16,0,01-05-2025 05:43
+14594,Bruno Guimarães,73,183,27,Brazil,Newcastle United,39,Midfielder,20,0,1842,92,31,68,0,4,3,0,5,5,24,1,21,0,01-05-2025 05:43
+14538,Savinho,66,178,20,Brazil,Manchester City,26,Forward,17,5,1043,61,13,13,0,0,2,0,5,12,29,1,14,0,01-05-2025 05:43
+14412,Adama Traoré,86,178,28,Spain,Fulham,11,Forward,19,8,1029,54,13,20,0,0,2,0,4,8,22,1,14,0,01-06-2025 05:40
+14132,Marcus Tavernier,69,178,25,England,AFC Bournemouth,16,Midfielder,15,2,1200,80,13,11,0,3,2,0,4,8,31,1,16,0,12-09-2024 12:52
+14483,Trent Alexander-Arnold,67,175,26,England,Liverpool,66,Defender,18,1,1465,81,8,6,0,7,4,0,4,3,19,1,15,0,01-06-2025 05:40
+14493,Alexis Mac Allister,68,175,26,Argentina,Liverpool,10,Midfielder,18,2,1398,78,32,19,0,3,5,0,3,7,16,1,11,0,01-06-2025 05:40
+14363,Ashley Young,64,175,39,England,Everton,18,Defender,16,0,1461,91,20,14,0,3,5,1,3,1,5,1,17,0,01-05-2025 05:43
+14167,Declan Rice,83,188,25,England,Arsenal,41,Midfielder,18,2,1528,85,13,10,0,3,4,1,3,6,21,1,16,0,01-05-2025 05:43
+14131,Lewis Cook,71,175,27,England,AFC Bournemouth,4,Midfielder,19,2,1704,90,30,2,0,1,4,0,3,2,10,1,21,0,01-05-2025 05:43
+14746,Mario Lemina,84,183,31,Gabon,Wolverhampton Wanderers,5,Midfielder,17,2,1483,87,17,8,0,6,4,0,3,5,18,1,36,0,01-07-2025 05:42
+14121,Milos Kerkez,71,180,21,Hungary,AFC Bournemouth,3,Defender,20,0,1837,92,15,22,0,4,2,0,3,2,11,1,23,0,01-05-2025 05:43
+14233,Vitaly Janelt,78,183,26,Germany,Brentford,27,Midfielder,19,3,1495,79,14,9,0,4,2,0,3,3,10,1,29,0,01-05-2025 05:43
+14231,Christian Nørgaard,73,188,30,Denmark,Brentford,6,Midfielder,17,0,1496,88,22,19,0,4,3,1,2,5,16,1,25,0,01-05-2025 05:43
+14748,Jean-Ricner Bellegarde,69,170,26,France,Wolverhampton Wanderers,27,Midfielder,18,8,864,48,16,21,0,0,3,0,2,2,11,1,19,0,01-07-2025 05:42
+14427,Leif Davis,69,183,25,England,Ipswich Town,3,Defender,20,0,1937,97,20,20,0,3,5,0,2,2,11,1,35,0,01-06-2025 05:40
+14201,Leon Bailey,77,178,27,Jamaica,Aston Villa,31,Midfielder,17,5,975,57,9,16,0,1,2,0,2,3,20,1,15,0,01-05-2025 05:43
+14165,Martin Ødegaard,68,178,26,Norway,Arsenal,8,Midfielder,13,1,1055,81,3,14,0,4,1,0,2,6,19,1,7,0,01-05-2025 05:43
+14270,Mats Wieffer,78,188,25,Netherlands,Brighton & Hove Albion,27,Midfielder,13,9,548,42,14,5,0,0,2,0,2,2,5,1,11,0,12-22-24 05:54
+14304,Moisés Caicedo,73,178,23,Ecuador,Chelsea,25,Midfielder,20,0,1905,95,41,28,0,2,4,0,2,2,11,1,23,0,01-05-2025 05:43
+14689,Pape Matar Sarr,69,185,22,Senegal,Tottenham Hotspur,29,Midfielder,20,8,1141,57,19,21,0,2,3,0,2,9,19,1,19,0,01-05-2025 05:43
+14316,Pedro Neto,62,173,24,Portugal,Chelsea,7,Forward,17,7,1096,65,11,17,0,1,6,0,2,6,23,1,12,0,01-05-2025 05:43
+14520,Rico Lewis,63,170,20,England,Manchester City,82,Defender,18,2,1475,82,10,24,0,0,4,1,2,2,8,1,19,0,01-05-2025 05:43
+14466,Bilal El Khannouss,69,180,20,Morocco,Leicester City,11,Midfielder,15,5,852,57,18,2,0,1,1,0,1,1,6,1,22,0,01-05-2025 05:43
+14437,Conor Chaplin,69,168,27,England,Ipswich Town,10,Forward,15,8,665,44,9,5,0,0,1,0,1,3,11,1,12,0,12-31-24 05:43
+14727,Crysencio Summerville,63,175,23,Netherlands,West Ham United,7,Forward,19,12,885,47,9,23,0,0,2,0,1,2,14,1,19,0,01-05-2025 05:43
+14724,Danny Ings,73,178,32,England,West Ham United,18,Forward,10,9,251,25,0,1,0,1,0,0,1,5,10,1,2,0,01-05-2025 05:43
+14706,Emerson,63,175,30,Italy,West Ham United,33,Defender,18,1,1406,78,15,6,0,2,5,0,1,3,9,1,30,0,12-30-24 05:52
+14235,Fábio Carvalho,62,170,22,Portugal,Brentford,14,Midfielder,16,13,509,32,5,10,0,1,1,0,1,4,10,1,13,0,12-28-24 05:47
+14439,George Hirst,83,191,25,England,Ipswich Town,27,Forward,8,7,226,28,4,2,0,0,1,0,1,2,3,1,4,0,11-10-2024 16:34
+14486,Ibrahima Konaté,94,193,25,France,Liverpool,5,Defender,13,1,1143,88,9,6,0,1,4,0,1,2,8,1,10,0,01-06-2025 05:40
+14318,João Félix,69,180,25,Portugal,Chelsea,14,Forward,10,7,414,41,5,15,0,1,2,0,1,4,18,1,4,0,01-05-2025 05:43
+14156,Jurriën Timber,78,178,23,Netherlands,Arsenal,12,Defender,17,1,1464,86,17,12,0,3,5,0,1,3,10,1,13,0,01-02-2025 05:44
+14245,Keane Lewis-Potter,67,170,23,England,Brentford,23,Forward,20,2,1640,82,8,16,0,4,3,0,1,11,19,1,30,0,01-05-2025 05:43
+14547,Lisandro Martínez,72,175,26,Argentina,Manchester United,6,Defender,17,0,1597,94,18,4,0,3,6,0,1,5,14,1,25,0,01-06-2025 05:40
+14139,Luis Sinisterra,59,173,25,Colombia,AFC Bournemouth,17,Forward,8,7,250,31,3,2,0,2,0,0,1,5,11,1,3,0,10-20-24 11:04
+14292,Marc Cucurella,66,173,26,Spain,Chelsea,3,Defender,18,2,1548,86,17,20,0,0,7,1,1,2,6,1,20,0,01-05-2025 05:43
+14659,Mateus Fernandes,72,178,20,Portugal,Southampton,18,Midfielder,18,2,1478,82,24,25,0,0,5,0,1,7,18,1,31,0,12-30-24 05:52
+14733,Matt Doherty,79,185,32,Republic of Ireland,Wolverhampton Wanderers,2,Defender,13,4,896,69,9,4,1,1,2,0,1,3,8,1,18,0,01-07-2025 05:42
+14335,Maxence Lacroix,87,191,24,France,Crystal Palace,5,Defender,17,0,1633,96,19,9,0,0,3,0,1,2,14,1,21,0,01-05-2025 05:43
+14723,Michail Antonio,82,180,34,Jamaica,West Ham United,9,Forward,14,3,862,62,9,7,0,2,1,0,1,4,19,1,17,0,12-04-2024 06:02
+14413,Reiss Nelson,71,175,25,England,Fulham,19,Forward,12,7,531,44,7,10,0,1,1,0,1,6,12,1,8,0,12-06-2024 05:57
+14157,Riccardo Calafiori,86,188,22,Italy,Arsenal,33,Defender,11,3,750,68,14,6,0,0,3,0,1,3,5,1,10,0,01-05-2025 05:43
+14128,Ryan Christie,69,178,29,Scotland,AFC Bournemouth,10,Midfielder,19,2,1463,77,27,19,0,5,6,0,1,6,17,1,17,0,01-05-2025 05:43
+14430,Sam Morsy,69,175,33,Egypt,Ipswich Town,5,Midfielder,18,0,1726,96,33,18,0,4,7,0,1,1,7,1,30,0,01-06-2025 05:40
+14482,Virgil van Dijk,92,196,33,Netherlands,Liverpool,4,Defender,19,0,1841,97,7,5,0,1,1,0,1,4,14,1,19,0,01-06-2025 05:40
+14642,Yukinari Sugawara,68,178,24,Japan,Southampton,16,Defender,17,6,1047,62,6,9,0,1,3,0,1,2,9,1,24,0,01-05-2025 05:43
+14291,Axel Disasi,83,191,26,France,Chelsea,2,Defender,5,1,365,73,2,0,0,0,1,0,0,1,2,1,3,0,01-05-2025 05:43
+14387,Beto,87,193,26,Guinea-Bissau,Everton,14,Forward,12,11,295,25,8,8,0,0,1,0,0,4,11,1,9,0,01-11-2025 05:43
+14470,Bobby De Cordova-Reid,68,170,31,Jamaica,Leicester City,14,Forward,14,12,371,27,5,8,0,0,0,0,0,2,6,1,5,0,01-05-2025 05:43
+14558,Casemiro,83,185,32,Brazil,Manchester United,18,Midfielder,14,4,904,65,9,13,0,7,1,0,0,5,19,1,14,0,01-06-2025 05:40
+14676,Cristian Romero,78,185,26,Argentina,Tottenham Hotspur,17,Defender,12,0,1047,87,7,9,0,2,1,0,0,4,11,1,13,0,12-09-2024 12:52
+14280,Evan Ferguson,78,183,20,Republic of Ireland,Brighton & Hove Albion,28,Forward,12,10,294,25,3,1,0,1,0,0,0,2,7,1,5,0,12-22-24 05:54
+14187,Ezri Konsa,73,183,27,England,Aston Villa,4,Defender,18,0,1665,93,2,24,0,1,0,0,0,2,5,1,29,0,01-05-2025 05:43
+14267,Ferdi Kadioglu,68,175,25,Turkey,Brighton & Hove Albion,24,Midfielder,6,1,402,67,5,3,0,1,1,0,0,1,4,1,8,0,11-02-2024 21:18
+14654,Flynn Downes,69,173,25,England,Southampton,4,Midfielder,16,0,1462,91,31,28,0,1,7,0,0,2,6,1,30,0,12-27-24 05:48
+14274,Jack Hinshelwood,76,180,19,England,Brighton & Hove Albion,41,Midfielder,10,0,895,90,7,2,0,0,2,0,0,3,8,1,13,0,11-10-2024 06:19
+14431,Jack Taylor,69,185,26,England,Ipswich Town,14,Midfielder,15,14,450,30,8,2,0,0,3,0,0,4,11,1,5,0,01-06-2025 05:40
+14346,Justin Devenny,73,178,21,Northern Ireland,Crystal Palace,55,Midfielder,8,6,260,33,2,0,0,2,0,0,0,1,4,1,3,0,01-05-2025 05:43
+14268,Matt O'Riley,77,188,24,Denmark,Brighton & Hove Albion,33,Midfielder,8,4,385,48,5,3,1,0,1,0,0,3,11,1,6,0,01-05-2025 05:43
+14549,Matthijs de Ligt,88,188,25,Netherlands,Manchester United,4,Defender,18,3,1381,77,10,8,0,2,3,0,0,5,9,1,22,0,01-06-2025 05:40
+14188,Matty Cash,78,185,27,Poland,Aston Villa,2,Defender,13,1,1054,81,15,8,0,0,5,0,0,3,6,1,15,0,01-05-2025 05:43
+14615,Murillo,74,180,22,Brazil,Nottingham Forest,5,Defender,19,0,1821,96,14,2,0,3,4,0,0,3,15,1,19,0,01-07-2025 05:42
+14374,Orel Mangala,79,178,26,Belgium,Everton,8,Midfielder,16,5,1058,66,18,12,0,1,2,0,0,4,13,1,7,0,01-05-2025 05:43
+14745,Pablo Sarabia,69,175,32,Spain,Wolverhampton Wanderers,21,Midfielder,6,4,225,38,2,4,0,2,1,0,0,3,3,1,4,0,01-07-2025 05:42
+14474,Patson Daka,71,183,26,Zambia,Leicester City,20,Forward,8,7,271,34,2,5,0,0,0,0,0,1,4,1,5,0,01-05-2025 05:43
+14629,Ramón Sosa,74,178,25,Paraguay,Nottingham Forest,24,Forward,12,11,298,25,6,4,0,1,0,0,0,4,9,1,2,0,01-07-2025 05:42
+14761,Rodrigo Gomes,67,175,21,Portugal,Wolverhampton Wanderers,19,Forward,13,8,539,42,0,4,0,0,0,0,0,2,4,1,13,0,01-07-2025 05:42
+14620,Ryan Yates,87,191,27,England,Nottingham Forest,22,Midfielder,19,6,1457,77,32,36,0,3,5,0,0,6,24,1,16,0,01-07-2025 05:42
+14625,Taiwo Awoniyi,83,183,27,Nigeria,Nottingham Forest,9,Forward,15,13,310,21,7,7,0,0,0,0,0,3,8,1,3,0,01-07-2025 05:42
+14644,Taylor Harwood-Bellis,82,188,22,England,Southampton,6,Defender,19,1,1712,90,23,9,0,1,7,0,0,3,12,1,35,0,01-05-2025 05:43
+14401,Tom Cairney,83,185,33,Scotland,Fulham,10,Midfielder,14,12,450,32,5,10,0,0,2,1,0,1,3,1,7,0,01-06-2025 05:40
+14453,Wout Faes,83,188,26,Belgium,Leicester City,3,Defender,17,4,1412,83,10,5,0,1,2,0,0,1,7,1,27,0,01-05-2025 05:43
+14396,Antonee Robinson,69,183,27,USA,Fulham,33,Defender,20,0,1955,98,16,13,0,4,4,0,7,2,11,0,26,0,01-06-2025 05:40
+14619,Elliot Anderson,68,178,22,England,Nottingham Forest,8,Midfielder,19,4,1249,66,21,27,0,3,5,0,5,4,23,0,12,0,01-07-2025 05:42
+14458,Wilfred Ndidi,73,183,28,Nigeria,Leicester City,6,Midfielder,15,0,1271,85,25,7,1,1,4,0,4,6,12,0,24,0,12-09-2024 12:52
+14199,Youri Tielemans,72,175,27,Belgium,Aston Villa,8,Midfielder,20,0,1783,89,23,36,0,6,3,0,4,3,14,0,27,0,01-05-2025 05:43
+14198,John McGinn,68,178,30,Scotland,Aston Villa,7,Midfielder,18,2,1315,73,20,38,0,0,3,0,3,2,19,0,22,0,01-05-2025 05:43
+14531,Matheus Nunes,78,183,26,Portugal,Manchester City,27,Midfielder,12,6,592,49,14,8,0,0,1,0,3,0,4,0,9,0,01-05-2025 05:43
+14735,Nélson Semedo,68,178,31,Portugal,Wolverhampton Wanderers,22,Defender,16,0,1503,94,22,13,0,3,6,0,3,3,8,0,28,0,12-30-24 05:52
+14695,Timo Werner,74,180,28,Germany,Tottenham Hotspur,16,Forward,17,13,599,35,3,5,0,3,0,0,3,3,8,0,12,0,01-05-2025 05:43
+14337,Tyrick Mitchell,68,175,25,England,Crystal Palace,3,Defender,20,0,1844,92,11,16,0,2,2,0,3,0,3,0,26,0,01-05-2025 05:43
+14340,Will Hughes,73,185,29,England,Crystal Palace,19,Midfielder,17,5,1133,67,33,15,0,5,7,0,3,1,10,0,16,0,12-30-24 05:52
+14650,Adam Lallana,73,173,36,England,Southampton,10,Midfielder,11,6,367,33,7,8,0,1,4,0,2,0,3,0,7,0,01-05-2025 05:43
+14475,Fatawu Issahaku,73,178,20,Ghana,Leicester City,7,Forward,11,5,654,60,9,20,0,0,0,0,2,5,13,0,13,0,11-10-2024 16:34
+14459,Harry Winks,64,178,28,England,Leicester City,8,Midfielder,15,2,1241,83,7,11,0,3,3,0,2,2,7,0,23,0,01-05-2025 05:43
+14441,Jack Clarke,73,180,24,England,Ipswich Town,47,Forward,16,12,621,39,9,14,0,1,1,0,2,1,11,0,14,0,01-06-2025 05:40
+14203,Jacob Ramsey,74,180,23,England,Aston Villa,41,Midfielder,12,5,695,58,5,8,0,1,1,0,2,3,11,0,16,0,01-05-2025 05:43
+14393,Kenny Tete,71,180,29,Netherlands,Fulham,2,Defender,15,0,1344,90,22,12,0,3,3,0,2,2,19,0,16,0,12-15-24 05:56
+14640,Kyle Walker-Peters,62,173,27,England,Southampton,2,Defender,18,0,1720,96,17,31,0,2,4,0,2,5,16,0,40,0,01-05-2025 05:43
+14579,Lewis Hall,73,178,20,England,Newcastle United,20,Defender,20,3,1701,85,6,17,0,5,3,0,2,2,9,0,17,0,01-05-2025 05:43
+14183,Lucas Digne,73,178,31,France,Aston Villa,12,Defender,20,2,1571,79,15,6,0,0,3,0,2,2,8,0,27,0,01-05-2025 05:43
+14681,Micky van de Ven,81,193,23,Netherlands,Tottenham Hotspur,37,Defender,9,0,837,93,8,6,0,1,4,0,2,1,5,0,11,0,12-09-2024 12:52
+14495,Ryan Gravenberch,83,191,22,Netherlands,Liverpool,38,Midfielder,19,0,1753,92,30,31,0,1,4,0,2,2,9,0,18,0,01-06-2025 05:40
+14420,Ben Johnson,67,175,24,England,Ipswich Town,18,Defender,12,5,749,62,12,4,0,0,2,0,1,1,1,0,16,0,01-06-2025 05:40
+14154,Ben White,76,185,27,England,Arsenal,4,Defender,9,2,754,84,7,3,0,2,2,0,1,1,4,0,7,0,11-10-2024 17:10
+14391,Bernd Leno,82,188,32,Germany,Fulham,1,Goalkeeper,20,0,1955,98,0,2,0,1,2,0,1,0,0,0,26,207,01-06-2025 05:40
+14422,Cameron Burgess,92,193,29,Australia,Ipswich Town,15,Defender,9,0,876,97,2,2,0,4,0,0,1,1,9,0,17,0,01-06-2025 05:40
+14718,Carlos Soler,76,180,28,Spain,West Ham United,4,Midfielder,15,7,768,51,16,9,0,1,5,0,1,2,15,0,13,0,01-05-2025 05:43
+14680,Destiny Udogie,73,185,22,Italy,Tottenham Hotspur,13,Defender,18,0,1508,84,21,30,0,1,2,0,1,1,5,0,21,0,12-30-24 05:52
+14548,Diogo Dalot,78,183,25,Portugal,Manchester United,20,Defender,20,0,1897,95,29,6,0,3,4,0,1,4,15,0,28,0,01-06-2025 05:40
+14678,Djed Spence,71,185,24,England,Tottenham Hotspur,24,Defender,8,4,463,58,3,3,0,2,2,1,1,0,2,0,9,0,01-05-2025 05:43
+14352,Eddie Nketiah,72,175,25,England,Crystal Palace,9,Forward,14,8,643,46,13,16,0,0,3,0,1,6,20,0,9,0,01-05-2025 05:43
+14511,Ederson,86,188,31,Brazil,Manchester City,31,Goalkeeper,13,0,1261,97,1,0,0,0,3,0,1,0,0,0,18,87,12-16-24 05:54
+14190,Ian Maatsen,57,178,22,Netherlands,Aston Villa,22,Defender,15,13,406,27,4,3,0,0,1,0,1,1,4,0,6,0,01-05-2025 05:43
+14523,Ilkay Gündogan,79,180,34,Germany,Manchester City,19,Midfielder,18,5,1220,68,10,16,0,1,1,0,1,3,15,0,20,0,01-05-2025 05:43
+14526,Jack Grealish,77,180,29,England,Manchester City,10,Midfielder,14,8,636,45,3,21,0,0,3,0,1,4,12,0,8,0,01-05-2025 05:43
+14375,James Garner,78,185,23,England,Everton,37,Midfielder,4,2,274,68,4,0,0,2,1,0,1,0,2,0,4,0,10-14-24 01:54
+14118,James Hill,73,183,23,England,AFC Bournemouth,23,Defender,4,2,173,43,4,4,0,0,0,0,1,0,1,0,2,0,01-05-2025 05:43
+14617,James Ward-Prowse,66,173,30,England,Nottingham Forest,18,Midfielder,10,5,464,46,6,2,0,1,1,1,1,0,2,0,8,0,01-07-2025 05:42
+14259,Jan Paul van Hecke,78,188,24,Netherlands,Brighton & Hove Albion,29,Defender,18,1,1651,92,13,8,0,1,4,0,1,2,9,0,21,0,01-05-2025 05:43
+14597,Joe Willock,71,178,25,England,Newcastle United,28,Midfielder,17,11,629,37,10,8,0,2,2,0,1,1,10,0,4,0,01-05-2025 05:43
+14630,Jota Silva,77,178,25,Portugal,Nottingham Forest,20,Forward,19,16,682,36,15,17,0,2,3,0,1,2,8,0,10,0,01-07-2025 05:42
+14464,Kasey McAteer,68,178,23,England,Leicester City,35,Midfielder,9,5,380,42,6,8,0,2,0,0,1,2,6,0,6,0,12-15-24 05:56
+14295,Levi Colwill,83,188,21,England,Chelsea,6,Defender,19,0,1837,97,20,14,0,2,5,0,1,1,5,0,23,0,01-05-2025 05:43
+14587,Lloyd Kelly,69,178,26,England,Newcastle United,25,Defender,9,5,349,39,5,5,0,0,2,0,1,0,2,0,5,0,01-05-2025 05:43
+14224,Mads Roerslev,77,183,25,Denmark,Brentford,30,Defender,16,8,894,56,4,6,0,2,1,0,1,1,2,0,14,0,01-05-2025 05:43
+14296,Malo Gusto,67,178,21,France,Chelsea,27,Defender,17,3,1335,79,13,10,0,1,3,0,1,2,17,0,18,0,01-05-2025 05:43
+14215,Mark Flekken,87,196,31,Netherlands,Brentford,1,Goalkeeper,20,0,1865,93,0,2,0,4,1,0,1,0,0,0,34,304,01-05-2025 05:43
+14234,Mathias Jensen,72,180,29,Denmark,Brentford,8,Midfielder,10,3,602,60,6,9,0,2,1,0,1,1,5,0,8,0,01-05-2025 05:43
+14708,Max Kilman,88,193,27,England,West Ham United,26,Defender,20,0,1867,93,8,7,0,3,3,0,1,2,10,0,37,0,01-05-2025 05:43
+14614,Neco Williams,72,183,23,Wales,Nottingham Forest,7,Defender,17,7,1108,65,9,17,0,2,4,0,1,4,16,0,7,0,01-07-2025 05:42
+14550,Noussair Mazraoui,63,183,27,Morocco,Manchester United,3,Defender,20,2,1611,81,21,12,0,1,1,0,1,1,8,0,23,0,01-06-2025 05:40
+14255,Pervis Estupiñán,73,175,26,Ecuador,Brighton & Hove Albion,30,Defender,16,3,1354,85,24,8,0,0,3,0,1,2,13,0,22,0,01-05-2025 05:43
+14171,Raheem Sterling,68,173,30,England,Arsenal,30,Forward,6,4,177,30,2,0,0,1,0,0,1,0,4,0,1,0,12-15-24 05:56
+14694,Richarlison,83,183,27,Brazil,Tottenham Hotspur,9,Forward,5,5,93,19,1,2,0,0,1,0,1,0,1,0,0,0,11-04-2024 22:44
+14309,Romeo Lavia,76,180,20,Belgium,Chelsea,45,Midfielder,9,2,493,55,9,2,0,1,3,0,1,0,1,0,9,0,12-09-2024 12:52
+14598,Sandro Tonali,78,180,24,Italy,Newcastle United,8,Midfielder,18,7,1192,66,15,26,0,1,4,0,1,4,16,0,11,0,01-05-2025 05:43
+14407,Sasa Lukic,76,183,28,Serbia,Fulham,20,Midfielder,15,1,1201,80,32,16,0,1,7,0,1,0,4,0,19,0,01-06-2025 05:40
+14395,Timothy Castagne,79,185,29,Belgium,Fulham,21,Defender,10,5,624,62,1,1,0,0,0,0,1,1,3,0,10,0,01-06-2025 05:40
+14750,Tommy Doyle,73,173,23,England,Wolverhampton Wanderers,20,Midfielder,16,13,551,34,5,4,0,4,1,0,1,2,7,0,10,0,01-07-2025 05:42
+14741,Toti Gomes,72,188,25,Portugal,Wolverhampton Wanderers,24,Defender,16,1,1361,85,11,9,0,1,4,0,1,0,2,0,27,0,12-27-24 05:48
+14456,Victor Kristiansen,73,180,22,Denmark,Leicester City,16,Defender,17,0,1595,94,11,13,1,6,1,0,1,1,1,0,33,0,12-30-24 05:52
+14436,Wes Burns,68,173,30,Wales,Ipswich Town,7,Forward,16,6,881,55,2,10,0,0,1,0,1,1,7,0,21,0,01-06-2025 05:40
+14282,Yankuba Minteh,64,180,20,Gambia,Newcastle United,0,Forward,2,0,0,0,3,0,0,0,0,0,1,0,2,0,1,0,01-05-2025 05:43
+14607,Álex Moreno,68,178,31,Spain,Nottingham Forest,19,Defender,11,1,810,74,11,5,0,4,2,0,1,0,5,0,13,0,01-07-2025 05:42
+14705,Aaron Cresswell,66,170,35,England,West Ham United,3,Defender,6,6,101,17,1,0,0,0,1,0,0,0,1,0,0,0,01-05-2025 05:43
+14634,Aaron Ramsdale,87,191,26,England,Southampton,30,Goalkeeper,13,0,1269,98,0,2,0,2,1,0,0,0,0,0,27,200,01-05-2025 05:43
+14634,Aaron Ramsdale,87,191,26,England,Arsenal,1,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14373,Abdoulaye Doucouré,74,183,32,Mali,Everton,16,Midfielder,17,1,1404,83,26,2,0,3,1,0,0,1,9,0,18,0,01-05-2025 05:43
+14115,Adam Smith,78,180,33,England,AFC Bournemouth,15,Defender,17,5,1100,65,8,9,0,0,4,0,0,0,1,0,13,0,12-23-24 05:53
+14252,Adam Webster,74,191,30,England,Brighton & Hove Albion,4,Defender,4,2,122,31,1,0,0,0,0,0,0,1,1,0,4,0,01-05-2025 05:43
+14347,Adam Wharton,77,183,20,England,Crystal Palace,20,Midfielder,8,0,644,81,5,12,0,1,0,0,0,5,9,0,9,0,10-28-24 05:17
+14632,Alex McCarthy,78,193,35,England,Southampton,1,Goalkeeper,4,0,388,97,0,1,0,0,0,0,0,0,0,0,10,60,01-05-2025 05:43
+14590,Alex Murphy,78,188,20,Republic of Ireland,Newcastle United,37,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-03-2024 13:39
+14133,Alex Scott,68,178,21,England,AFC Bournemouth,8,Midfielder,8,6,301,38,2,13,0,1,0,0,0,1,3,0,3,0,10-20-24 11:04
+25294,Alfie Devine,74,183,20,England,Tottenham Hotspur,45,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-13-24 21:50
+14683,Alfie Dorrington,74,180,19,England,Tottenham Hotspur,48,Defender,1,1,16,17,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14740,Alfie Pond,86,191,20,England,Wolverhampton Wanderers,46,Defender,1,1,8,8,0,0,0,0,0,0,0,0,0,0,0,0,01-07-2025 05:42
+14672,Alfie Whiteman,83,188,26,England,Tottenham Hotspur,41,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14444,Ali Ibrahim Al-Hamadi,82,183,22,Iraq,Ipswich Town,16,Forward,11,11,199,18,8,3,0,0,3,0,0,0,4,0,6,0,01-06-2025 05:40
+14476,Alisson Becker,91,193,32,Brazil,Liverpool,1,Goalkeeper,11,0,1051,96,0,0,0,1,0,0,0,0,0,0,10,76,01-06-2025 05:40
+14703,Alphonse Areola,93,196,31,France,West Ham United,23,Goalkeeper,11,1,976,89,0,0,1,3,0,0,0,1,1,0,21,127,01-05-2025 05:43
+14542,Altay Bayindir,87,198,26,Turkey,Manchester United,1,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14490,Amara Nallo,72,185,18,England,Liverpool,65,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2024 05:59
+14719,Andrew Irving,66,191,24,Scotland,West Ham United,39,Midfielder,6,6,102,17,2,0,0,1,1,0,0,0,0,0,1,0,01-05-2025 05:43
+14613,Andrew Omobamidele,78,188,22,Republic of Ireland,Nottingham Forest,12,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-22-24 23:19
+14481,Andrew Robertson,63,178,30,Scotland,Liverpool,26,Defender,18,1,1531,85,6,4,0,2,2,1,0,2,6,0,18,0,01-06-2025 05:40
+14753,André,77,175,23,Brazil,Wolverhampton Wanderers,7,Midfielder,15,2,1046,70,11,18,0,2,2,0,0,1,2,0,21,0,12-30-24 05:52
+14541,André Onana,92,191,28,Cameroon,Manchester United,24,Goalkeeper,20,0,1936,97,0,2,0,2,0,0,0,0,0,0,28,196,01-06-2025 05:40
+14568,Antony,63,175,24,Brazil,Manchester United,21,Forward,6,6,126,21,1,2,0,0,0,0,0,2,4,0,2,0,01-06-2025 05:40
+14690,Archie Gray,69,188,18,England,Tottenham Hotspur,14,Midfielder,13,7,693,53,2,3,0,1,0,0,0,1,1,0,13,0,01-05-2025 05:43
+14126,Archie Harris,0,0,20,England,AFC Bournemouth,50,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14388,Armando Broja,83,191,23,Albania,Everton,22,Forward,5,3,176,35,4,2,0,0,1,0,0,0,4,0,2,0,01-05-2025 05:43
+14645,Armel Bella-Kotchap,87,191,23,Germany,Southampton,37,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14418,Aro Muric,81,198,26,Kosovo,Ipswich Town,1,Goalkeeper,17,0,1642,97,0,4,0,3,1,0,0,0,0,0,31,225,01-06-2025 05:40
+14349,Asher Agbinone,68,178,19,England,Crystal Palace,64,Midfielder,2,2,20,10,0,0,0,0,0,0,0,0,1,0,0,0,01-05-2025 05:43
+14358,Asmir Begovic,101,198,37,Bosnia and Herzegovina,Everton,31,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14424,Axel Tuanzebe,74,185,27,Congo DR,Ipswich Town,40,Defender,9,0,804,89,6,4,0,0,3,0,0,0,3,0,13,0,12-01-2024 06:00
+14162,Ayden Heaven,77,188,18,England,Arsenal,76,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-09-2024 12:52
+14250,Bart Verbruggen,66,193,22,Netherlands,Brighton & Hove Albion,1,Goalkeeper,18,0,1749,97,0,0,0,3,3,0,0,0,0,0,27,188,01-05-2025 05:43
+14742,Bastien Meupiyou,79,191,18,France,Wolverhampton Wanderers,33,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-07-2025 05:42
+14666,Ben Brereton Díaz,79,185,25,Chile,Southampton,17,Forward,10,6,509,51,4,8,0,1,1,0,0,1,11,0,10,0,01-05-2025 05:43
+14205,Ben Broggio,74,180,17,England,Aston Villa,79,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-24-24 15:57
+14675,Ben Davies,77,180,31,Wales,Tottenham Hotspur,33,Defender,4,1,295,74,2,1,0,1,1,0,0,0,0,0,2,0,12-06-2024 05:57
+14220,Ben Mee,73,180,35,England,Brentford,16,Defender,5,3,202,40,5,0,0,0,2,0,0,0,0,0,4,0,12-28-24 05:47
+25103,Ben Nelson,87,193,20,England,Leicester City,26,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14136,Ben Winterburn,0,185,20,England,AFC Bournemouth,47,Midfielder,1,1,17,17,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14230,Benjamin Arthur,0,0,19,England,Brentford,43,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14294,Benoît Badiashile,74,193,23,France,Chelsea,5,Defender,4,2,280,70,6,2,0,1,0,0,0,0,0,0,4,0,12-09-2024 12:52
+24869,Billy Gilmour,59,170,23,Scotland,Brighton & Hove Albion,11,Midfielder,2,1,108,54,2,3,0,0,0,0,0,0,1,0,1,0,10-14-24 06:59
+14202,Boubacar Kamara,68,183,25,France,Aston Villa,44,Midfielder,11,3,717,65,11,9,0,0,1,0,0,0,2,0,14,0,01-05-2025 05:43
+14747,Boubacar Traoré,67,183,23,Mali,Wolverhampton Wanderers,6,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14461,Boubakary Soumaré,69,188,25,France,Leicester City,24,Midfielder,13,4,925,71,13,8,0,3,8,0,0,0,2,0,21,0,01-05-2025 05:43
+14276,Brajan Gruda,69,178,20,Germany,Brighton & Hove Albion,8,Midfielder,10,6,361,36,3,5,0,0,0,0,0,1,3,0,8,0,01-05-2025 05:43
+14673,Brandon Austin,82,188,26,England,Tottenham Hotspur,40,Goalkeeper,1,0,103,103,0,2,0,0,0,0,0,0,0,0,2,12,01-05-2025 05:43
+14339,Caleb Kporha,67,170,18,England,Crystal Palace,58,Defender,2,2,26,13,0,0,0,0,0,0,0,0,0,0,1,0,01-05-2025 05:43
+14455,Caleb Okoli,91,191,23,Italy,Leicester City,5,Defender,13,4,870,67,8,7,0,0,2,0,0,2,4,0,18,0,01-05-2025 05:43
+14381,Callum Bates,78,180,19,England,Everton,92,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-24-24 15:57
+14692,Callum Olusesi,64,175,17,England,Tottenham Hotspur,64,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14600,Callum Wilson,66,180,32,England,Newcastle United,9,Forward,4,4,83,21,0,1,0,1,1,0,0,0,0,0,2,0,12-10-2024 05:55
+14399,Calvin Bassey,76,185,25,Nigeria,Fulham,3,Defender,19,0,1855,98,13,19,0,1,5,0,0,3,8,0,24,0,01-06-2025 05:40
+14477,Caoimhín Kelleher,73,188,26,Republic of Ireland,Liverpool,62,Goalkeeper,8,0,771,96,0,1,0,0,0,0,0,0,0,0,9,86,01-06-2025 05:40
+24866,Carl Rushworth,86,188,23,England,Brighton & Hove Albion,39,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+25463,Carlos Alcaraz,68,175,22,Argentina,Southampton,22,Midfielder,1,1,17,17,1,0,0,0,0,0,0,1,1,0,0,0,10-14-24 06:59
+14755,Carlos Forbs,62,170,20,Portugal,Wolverhampton Wanderers,26,Forward,9,8,246,27,2,1,0,0,2,0,0,0,3,0,9,0,01-07-2025 05:42
+14606,Carlos Miguel,93,203,26,Brazil,Nottingham Forest,33,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-07-2025 05:42
+14414,Carlos Vinícius,86,191,29,Brazil,Fulham,12,Forward,1,1,11,11,0,0,0,0,0,0,0,1,1,0,0,0,12-30-24 05:52
+14311,Cesare Casadei,77,185,22,Italy,Chelsea,31,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+14338,Chadi Riad,78,185,21,Morocco,Crystal Palace,34,Defender,1,0,96,96,1,0,0,0,0,0,0,0,0,0,2,0,01-05-2025 05:43
+14636,Charlie Taylor,69,175,31,England,Southampton,21,Defender,7,5,319,46,2,2,0,1,1,0,0,0,0,0,10,0,01-05-2025 05:43
+14345,Cheick Doucouré,73,180,25,Mali,Crystal Palace,28,Midfielder,12,8,429,36,7,6,0,0,1,0,0,0,7,0,5,0,01-05-2025 05:43
+14438,Chiedozie Ogbene,78,180,27,Republic of Ireland,Ipswich Town,21,Forward,5,2,249,50,2,7,0,0,0,0,0,0,0,0,3,0,10-27-24 05:16
+25213,Chiquinho,73,178,24,Portugal,Wolverhampton Wanderers,23,Forward,1,1,13,13,1,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14336,Chris Richards,87,188,24,USA,Crystal Palace,26,Defender,9,2,667,74,6,3,0,2,1,0,0,1,3,0,12,0,01-05-2025 05:43
+14557,Christian Eriksen,76,183,32,Denmark,Manchester United,14,Midfielder,11,4,673,61,5,2,0,0,2,0,0,0,3,0,7,0,01-06-2025 05:40
+14417,Christian Walton,74,196,29,England,Ipswich Town,28,Goalkeeper,3,0,295,98,0,0,0,0,0,0,0,0,0,0,4,47,01-06-2025 05:40
+14419,Cieran Slicker,82,191,22,Scotland,Ipswich Town,13,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-27-24 05:16
+14485,Conor Bradley,63,180,21,Northern Ireland,Liverpool,84,Defender,8,7,292,36,4,4,0,0,1,0,0,3,6,0,3,0,01-06-2025 05:40
+14450,Conor Coady,79,185,31,England,Leicester City,4,Defender,9,1,753,84,3,0,0,2,1,0,0,0,0,0,22,0,01-05-2025 05:43
+14421,Conor Townsend,62,183,31,England,Ipswich Town,22,Defender,1,1,9,9,0,0,0,0,0,0,0,0,0,0,1,0,01-06-2025 05:40
+14734,Craig Dawson,82,188,34,England,Wolverhampton Wanderers,15,Defender,15,5,1084,72,6,5,2,1,2,0,0,3,7,0,23,0,12-30-24 05:52
+14343,Daichi Kamada,76,183,28,Japan,Crystal Palace,18,Midfielder,16,8,829,52,17,11,0,0,2,1,0,4,11,0,15,0,01-05-2025 05:43
+14585,Dan Burn,87,198,32,England,Newcastle United,33,Defender,19,0,1847,97,14,7,1,1,6,0,0,4,13,0,19,0,01-05-2025 05:43
+14729,Daniel Bentley,73,188,31,England,Wolverhampton Wanderers,25,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-15-24 05:56
+14446,Daniel Iversen,79,193,27,Denmark,Leicester City,31,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14142,Daniel Jebbison,68,191,21,Canada,AFC Bournemouth,21,Forward,2,2,41,20,0,1,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+25219,Daniel Podence,58,165,29,Portugal,Wolverhampton Wanderers,10,Forward,2,2,62,31,0,2,0,0,0,0,0,0,1,0,2,0,10-14-24 06:59
+14623,Danilo,68,175,23,Brazil,Nottingham Forest,28,Midfielder,1,0,14,14,1,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14445,Danny Ward,87,191,31,Wales,Leicester City,1,Goalkeeper,2,1,146,73,0,0,0,0,0,0,0,0,0,0,6,5,12-23-24 05:53
+14425,Dara O'Shea,74,188,25,Republic of Ireland,Ipswich Town,26,Defender,17,0,1614,95,8,8,0,2,5,0,0,1,11,0,28,0,01-06-2025 05:40
+14146,David Raya,79,183,29,Spain,Arsenal,22,Goalkeeper,20,0,1936,97,1,5,0,2,2,0,0,0,0,0,18,189,01-05-2025 05:43
+14327,Dean Henderson,84,188,27,England,Crystal Palace,1,Goalkeeper,20,0,1923,96,0,0,0,0,2,0,0,0,1,0,26,228,01-05-2025 05:43
+14186,Diego Carlos,78,185,31,Brazil,Aston Villa,3,Defender,10,2,914,91,11,1,0,3,1,0,0,1,4,0,15,0,12-31-24 05:43
+14539,Divin Mubama,0,183,20,England,Manchester City,67,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14352,Eddie Nketiah,72,175,25,England,Arsenal,14,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14720,Edson Álvarez,73,188,27,Mexico,West Ham United,19,Midfielder,16,5,1080,68,17,11,0,5,5,1,0,1,7,0,22,0,01-05-2025 05:43
+14582,Emil Krafth,83,183,30,Sweden,Newcastle United,17,Defender,3,1,262,87,2,1,0,0,0,0,0,0,1,0,1,0,11-03-2024 13:39
+14200,Emiliano Buendía,72,173,28,Argentina,Aston Villa,10,Midfielder,10,10,137,14,3,4,0,0,1,0,0,0,4,0,2,0,01-05-2025 05:43
+14179,Emiliano Martínez,87,196,32,Argentina,Aston Villa,23,Goalkeeper,20,0,1897,95,1,3,0,4,2,0,0,0,0,0,31,196,01-05-2025 05:43
+14631,Eric Da Silva Moreira,82,183,18,Germany,Nottingham Forest,17,Forward,2,2,41,20,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14573,Ethan Wheatley,76,188,18,England,Manchester United,36,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-04-2024 22:44
+14714,Ezra Mayers,0,183,17,England,West Ham United,63,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-01-2024 06:00
+14502,Federico Chiesa,69,175,27,Italy,Liverpool,14,Forward,1,1,24,24,1,1,0,0,0,0,0,0,1,0,0,0,01-06-2025 05:40
+14286,Filip Jørgensen,84,191,22,Denmark,Chelsea,12,Goalkeeper,2,0,193,97,1,0,0,0,0,0,0,0,0,0,3,11,01-05-2025 05:43
+14357,Franco Umeh-Chibueze,73,185,19,,Crystal Palace,46,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-02-2024 21:18
+24820,Frank Onyeka,69,183,27,Nigeria,Brentford,15,Midfielder,2,2,35,18,2,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14670,Fraser Forster,92,201,36,England,Tottenham Hotspur,20,Goalkeeper,7,0,681,97,0,0,0,1,0,0,0,0,0,0,15,87,12-30-24 05:52
+14555,Godwill Kukonki,0,196,16,England,Manchester United,87,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-31-24 05:43
+14671,Guglielmo Vicario,83,193,28,Italy,Tottenham Hotspur,1,Goalkeeper,12,0,1168,97,0,1,0,0,1,0,0,0,0,0,13,115,11-24-24 15:57
+14715,Guido Rodríguez,79,185,30,Argentina,West Ham United,24,Midfielder,16,4,944,59,14,7,0,0,5,0,0,1,8,0,15,0,01-05-2025 05:43
+24734,Hamed Traoré,77,183,24,Ivory Coast,AFC Bournemouth,22,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14460,Hamza Choudhury,63,178,27,Bangladesh,Leicester City,17,Midfielder,4,3,148,37,1,0,0,0,0,0,0,0,0,0,5,0,01-05-2025 05:43
+14382,Harrison Armstrong,69,185,17,England,Everton,45,Midfielder,3,3,62,21,2,2,0,1,1,0,0,0,1,0,1,0,01-05-2025 05:43
+14429,Harrison Clarke,71,180,23,England,Ipswich Town,2,Defender,7,3,440,63,4,1,0,0,2,1,0,1,1,0,10,0,01-06-2025 05:40
+14403,Harrison Reed,72,180,29,England,Fulham,6,Midfielder,8,8,111,14,5,2,0,0,2,0,0,0,1,0,2,0,11-10-2024 06:19
+14553,Harry Amass,71,180,17,England,Manchester United,41,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-04-2024 22:44
+14544,Harry Maguire,89,193,31,England,Manchester United,5,Defender,13,4,870,67,11,3,0,1,5,0,0,1,4,0,12,0,01-06-2025 05:40
+14609,Harry Toffolo,71,183,29,England,Nottingham Forest,15,Defender,3,3,63,21,0,0,0,0,0,0,0,0,1,0,1,0,12-30-24 05:52
+14479,Harvey Davies,77,191,21,England,Liverpool,95,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-02-2024 05:58
+14496,Harvey Elliott,63,170,21,England,Liverpool,19,Midfielder,7,7,93,13,0,0,0,1,0,0,0,0,1,0,0,0,01-06-2025 05:40
+14467,Henry Cartwright,0,0,20,England,Leicester City,49,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-15-24 05:56
+14218,Hákon Rafn Valdimarsson,88,188,23,Iceland,Brentford,12,Goalkeeper,1,1,61,61,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14618,Ibrahim Sangaré,77,191,27,Ivory Coast,Nottingham Forest,6,Midfielder,3,0,219,73,4,4,0,0,2,0,0,1,1,0,2,0,10-14-24 06:59
+14372,Idrissa Gueye,66,175,35,Senegal,Everton,27,Midfielder,18,2,1479,82,29,21,0,2,3,0,0,3,15,0,22,0,01-05-2025 05:43
+14256,Igor Julio,84,185,26,Brazil,Brighton & Hove Albion,3,Defender,12,3,988,82,9,6,0,2,4,0,0,0,1,0,15,0,01-05-2025 05:43
+14120,Illia Zabarnyi,79,188,22,Ukraine,AFC Bournemouth,27,Defender,20,0,1937,97,10,3,0,1,2,0,0,0,5,0,23,0,01-05-2025 05:43
+14260,Imari Samuels,78,188,21,England,Brighton & Hove Albion,47,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-24-24 15:57
+14178,Ismeal Kabia,69,175,19,Netherlands,Arsenal,46,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14397,Issa Diop,92,193,28,France,Fulham,31,Defender,15,3,1174,78,7,3,1,0,2,0,0,3,6,0,13,0,01-06-2025 05:40
+25206,Issa Kaboré,77,180,23,Burkina Faso,Manchester City,78,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14559,Jack Fletcher,78,180,17,England,Manchester United,57,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-04-2024 22:44
+14384,Jack Harrison,69,175,28,England,Everton,11,Forward,17,6,992,58,6,15,0,5,0,0,0,3,15,0,14,0,01-05-2025 05:43
+14637,Jack Stephens,77,188,27,England,Southampton,5,Goalkeeper,10,0,925,93,8,2,0,0,2,2,0,0,2,0,20,0,12-05-2024 05:59
+14428,Jacob Greaves,69,185,24,England,Ipswich Town,24,Defender,11,0,1061,97,6,8,0,2,2,0,0,2,6,0,18,0,01-06-2025 05:40
+14262,Jacob Slater,0,183,20,England,Brighton & Hove Albion,53,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-30-24 06:02
+14535,Jacob Wright,64,178,19,England,Manchester City,56,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-10-2024 05:55
+14212,Jaden Philogene,66,180,22,England,Aston Villa,19,Forward,11,9,404,37,11,8,0,0,3,1,0,0,7,0,5,0,12-31-24 05:43
+14522,Jahmai Simpson-Pusey,78,188,19,England,Manchester City,66,Defender,2,1,113,56,0,1,0,0,1,0,0,0,0,0,2,0,01-05-2025 05:43
+24744,Jaidon Anthony,0,183,25,England,AFC Bournemouth,32,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14368,Jake O'Brien,92,198,23,Republic of Ireland,Everton,15,Defender,2,2,46,23,1,0,0,0,1,0,0,0,0,0,1,0,01-05-2025 05:43
+14158,Jakub Kiwior,74,188,24,Poland,Arsenal,15,Defender,8,6,334,42,5,1,0,1,0,0,0,0,0,0,5,0,01-05-2025 05:43
+14271,Jakub Moder,78,188,25,Poland,Brighton & Hove Albion,15,Midfielder,3,3,31,10,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14448,Jakub Stolarczyk,81,193,24,Poland,Leicester City,41,Goalkeeper,3,0,292,97,0,0,0,0,0,0,0,0,0,0,7,39,01-05-2025 05:43
+14207,Jamaldeen Jimoh,71,183,18,England,Aston Villa,56,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14638,James Bree,73,178,27,England,Southampton,14,Defender,7,3,341,49,0,1,0,1,0,0,0,0,0,0,8,0,01-05-2025 05:43
+14530,James McAtee,72,180,22,England,Manchester City,87,Midfielder,4,4,60,15,1,1,0,0,0,0,0,0,1,0,0,0,01-05-2025 05:43
+14498,James McConnell,64,175,20,England,Liverpool,53,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14264,James Milner,69,175,39,England,Brighton & Hove Albion,6,Midfielder,3,0,170,57,3,1,0,0,1,0,0,0,2,0,1,0,10-14-24 06:59
+14365,James Tarkowski,81,185,32,England,Everton,6,Defender,19,0,1810,95,22,14,0,4,4,0,0,2,9,0,25,0,01-05-2025 05:43
+14617,James Ward-Prowse,66,173,30,England,West Ham United,8,Midfielder,1,1,25,25,0,0,0,0,0,0,0,0,0,0,1,0,10-14-24 06:59
+14639,Jan Bednarek,83,188,28,Poland,Southampton,35,Defender,16,0,1541,96,17,7,0,1,4,0,0,0,1,0,34,0,01-05-2025 05:43
+14449,Jannik Vestergaard,93,198,32,Denmark,Leicester City,23,Defender,12,1,990,83,9,4,0,1,4,0,0,1,2,0,23,0,01-05-2025 05:43
+14489,Jarell Quansah,83,191,21,England,Liverpool,78,Defender,5,3,251,50,6,1,0,0,1,0,0,0,0,0,4,0,01-06-2025 05:40
+14369,Jarrad Branthwaite,87,196,22,England,Everton,32,Defender,12,2,972,81,2,5,0,1,3,0,0,1,3,0,9,0,01-05-2025 05:43
+14249,Jason Steele,78,188,34,England,Brighton & Hove Albion,23,Goalkeeper,2,0,199,100,0,1,0,0,0,0,0,0,0,0,1,17,01-05-2025 05:43
+24788,Jay Stansfield,0,0,22,England,Fulham,28,Forward,1,1,5,5,1,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14565,Jayce Fitzgerald,69,178,17,England,Manchester United,75,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-04-2024 22:44
+14506,Jayden Danns,67,183,18,England,Liverpool,76,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14228,Jayden Meghoma,79,175,18,England,Brentford,21,Defender,1,1,13,13,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14711,Jean-Clair Todibo,87,193,25,France,West Ham United,25,Defender,15,7,962,64,6,3,0,3,0,0,0,0,2,0,18,0,01-05-2025 05:43
+14342,Jeff Schlupp,72,178,32,Ghana,Crystal Palace,15,Midfielder,11,11,171,16,0,0,0,0,0,0,0,1,4,0,3,0,01-05-2025 05:43
+14341,Jefferson Lerma,69,178,30,Colombia,Crystal Palace,8,Midfielder,16,4,1168,73,15,22,0,4,4,0,0,5,15,0,14,0,01-05-2025 05:43
+14435,Jens Cajuste,77,188,25,Sweden,Ipswich Town,12,Midfielder,14,3,863,62,12,8,0,0,2,0,0,0,3,0,18,0,01-06-2025 05:40
+25053,Jenson Metcalfe,0,0,20,England,Everton,44,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+24892,Jeremy Sarmiento,72,178,22,Ecuador,Brighton & Hove Albion,16,Midfielder,1,1,19,19,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14376,Jesper Lindstrom,66,183,24,Denmark,Everton,29,Midfielder,15,8,687,46,2,3,0,3,0,0,0,5,23,0,9,0,01-05-2025 05:43
+14394,Joachim Andersen,86,193,28,Denmark,Fulham,5,Defender,12,0,1081,90,10,9,0,3,3,1,0,3,9,0,19,0,01-06-2025 05:40
+14394,Joachim Andersen,86,193,28,Denmark,Crystal Palace,5,Defender,1,0,95,95,2,0,0,0,1,0,0,1,1,0,2,0,10-14-24 06:59
+14181,Joe Gauci,87,193,24,Australia,Aston Villa,18,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-20-24 11:04
+14480,Joe Gomez,79,188,27,England,Liverpool,2,Defender,9,3,570,63,2,3,0,1,1,0,0,2,4,0,8,0,12-30-24 05:52
+14633,Joe Lumley,73,191,29,England,Southampton,13,Goalkeeper,3,0,296,99,0,0,0,1,0,0,0,0,0,0,7,59,12-16-24 05:54
+14330,Joel Ward,83,188,35,England,Crystal Palace,2,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-22-24 05:54
+14574,John Ruddy,96,193,38,England,Newcastle United,26,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-28-24 05:17
+14543,Jonny Evans,77,188,37,Northern Ireland,Manchester United,35,Defender,6,3,316,53,5,6,0,0,1,0,0,0,1,0,2,0,12-27-24 05:48
+14469,Jordan Ayew,79,183,33,Ghana,Crystal Palace,9,Forward,1,1,25,25,1,0,0,0,1,0,0,0,1,0,1,0,10-14-24 06:59
+14359,Jordan Pickford,82,185,30,England,Everton,1,Goalkeeper,19,0,1822,96,0,3,0,8,4,0,0,0,0,0,25,217,01-05-2025 05:43
+14398,Jorge Cuenca,74,191,25,Spain,Fulham,15,Defender,4,3,122,31,0,1,0,0,0,0,0,0,0,0,3,0,01-06-2025 05:40
+14163,Jorginho,64,180,33,Italy,Arsenal,20,Midfielder,10,4,493,49,7,12,0,0,3,0,0,0,1,0,5,0,01-05-2025 05:43
+14661,Joseph O'Brien-Whitmarsh,73,173,19,,Southampton,60,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2024 05:59
+14300,Josh Acheampong,74,183,18,England,Chelsea,34,Defender,1,0,95,95,0,0,0,0,0,0,0,0,1,0,1,0,01-05-2025 05:43
+14402,Josh King,73,188,18,England,Fulham,24,Midfielder,3,2,88,29,1,2,0,0,0,0,0,0,0,0,0,0,01-10-2025 05:36
+14161,Josh Nichols,55,165,18,England,Arsenal,51,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-01-2024 06:00
+14519,Josh Wilson-Esbrand,69,175,22,England,Manchester City,97,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-10-2024 05:55
+14732,José Sá,83,193,31,Portugal,Wolverhampton Wanderers,1,Goalkeeper,13,0,1271,98,2,5,0,1,1,0,0,0,0,0,26,147,01-07-2025 05:42
+14360,João Virgínia,83,193,25,Portugal,Everton,12,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14254,Joël Veltman,74,183,32,Netherlands,Brighton & Hove Albion,34,Defender,14,0,1280,91,12,32,0,1,3,0,0,0,3,0,14,0,01-05-2025 05:43
+14263,Julio Enciso,63,173,20,Paraguay,Brighton & Hove Albion,10,Midfielder,11,9,349,32,3,7,0,0,0,0,0,10,19,0,4,0,01-05-2025 05:43
+14119,Julián Araujo,69,175,23,Mexico,AFC Bournemouth,22,Defender,8,3,375,47,4,1,0,0,1,0,0,0,0,0,7,0,11-10-2024 06:19
+14214,Kadan Young,67,175,18,England,Aston Villa,72,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 01:54
+14348,Kaden Rodney,67,188,20,England,Crystal Palace,42,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-13-24 21:50
+14712,Kaelan Casey,69,185,20,England,West Ham United,42,Defender,1,1,9,9,0,0,0,0,0,0,0,0,0,0,0,0,12-17-24 05:56
+14433,Kalvin Phillips,72,178,29,England,Ipswich Town,8,Midfielder,11,3,750,68,19,14,0,1,2,1,0,1,6,0,16,0,01-06-2025 05:40
+14433,Kalvin Phillips,72,178,29,England,Manchester City,0,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14655,Kamaldeen Sulemana,69,175,22,Ghana,Southampton,20,Midfielder,9,7,218,24,3,3,0,0,0,0,0,0,2,0,7,0,01-05-2025 05:43
+14113,Kepa Arrizabalaga,83,188,30,Spain,AFC Bournemouth,13,Goalkeeper,14,0,1358,97,0,2,0,1,2,0,0,0,0,0,18,151,01-05-2025 05:43
+14150,Kieran Tierney,69,178,27,Scotland,Arsenal,3,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14580,Kieran Trippier,71,178,34,England,Newcastle United,2,Defender,11,6,523,48,9,2,0,2,1,0,0,0,1,0,4,0,01-05-2025 05:43
+14302,Kiernan Dewsbury-Hall,79,178,26,England,Chelsea,22,Midfielder,5,5,91,18,1,1,0,0,0,0,0,0,0,0,2,0,12-16-24 05:54
+14251,Killian Cahill,67,183,21,,Brighton & Hove Albion,38,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-27-24 05:16
+14229,Kim Ji-Soo,83,193,20,South Korea,Brentford,36,Defender,2,2,39,20,1,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14563,Kobbie Mainoo,72,175,19,England,Manchester United,37,Midfielder,14,2,1150,82,19,19,0,3,5,0,0,1,8,0,16,0,01-06-2025 05:40
+14709,Konstantinos Mavropanos,93,193,27,Greece,West Ham United,15,Defender,17,4,1326,78,8,10,0,2,2,0,0,2,11,0,24,0,01-05-2025 05:43
+14196,Kosta Nedeljkovic,72,183,19,Serbia,Aston Villa,20,Defender,4,4,142,36,0,1,0,0,0,0,0,0,0,0,3,0,01-05-2025 05:43
+14484,Kostas Tsimikas,77,178,28,Greece,Liverpool,21,Defender,8,6,301,38,4,1,0,0,0,0,0,0,1,0,1,0,01-06-2025 05:40
+14221,Kristoffer Ajer,92,198,26,Norway,Brentford,20,Defender,10,1,754,75,8,4,0,1,3,0,0,2,3,0,15,0,12-22-24 05:54
+14513,Kyle Walker,79,183,34,England,Manchester City,2,Defender,15,6,1053,70,6,5,0,0,3,0,0,2,5,0,21,0,01-05-2025 05:43
+14192,Lamar Bogarde,76,183,21,Netherlands,Aston Villa,26,Defender,3,0,220,74,5,4,0,0,1,0,0,0,0,0,5,0,01-05-2025 05:43
+14552,Leny Yoro,83,191,19,France,Manchester United,15,Defender,7,5,278,40,2,0,0,1,1,0,0,1,3,0,7,0,01-06-2025 05:40
+14656,Lesley Ugochukwu,72,191,20,France,Southampton,26,Midfielder,10,6,511,51,11,5,0,0,2,0,0,0,2,0,15,0,01-05-2025 05:43
+14253,Lewis Dunk,87,193,33,England,Brighton & Hove Albion,5,Defender,15,1,1362,91,4,7,0,1,4,0,0,2,10,0,20,0,12-31-24 05:43
+14599,Lewis Miley,72,185,18,England,Newcastle United,67,Midfielder,2,2,20,10,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14722,Lewis Orford,73,188,18,England,West Ham United,61,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-17-24 05:56
+597,Luca Williams-Barnett,0,175,16,England,Tottenham Hotspur,78,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-02-2024 05:58
+14691,Lucas Bergvall,73,188,18,Sweden,Tottenham Hotspur,15,Midfielder,13,11,369,28,8,4,0,1,2,0,0,0,2,0,5,0,01-05-2025 05:43
+14728,Luis Guilherme,73,178,18,Brazil,West Ham United,17,Forward,4,4,63,16,0,2,0,0,0,0,0,0,1,0,1,0,01-05-2025 05:43
+14702,Lukasz Fabianski,83,191,39,Poland,West Ham United,1,Goalkeeper,11,1,971,88,1,1,0,1,2,0,0,0,0,0,16,144,12-27-24 05:48
+14749,Luke Cundle,62,170,22,England,Wolverhampton Wanderers,34,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-07-2025 05:42
+14545,Luke Shaw,79,178,29,England,Manchester United,23,Defender,2,2,78,39,0,0,0,0,0,0,0,0,0,0,0,0,12-02-2024 05:58
+14452,Luke Thomas,71,180,23,England,Leicester City,33,Defender,2,0,183,92,0,1,0,1,0,0,0,0,1,0,6,0,01-05-2025 05:43
+14426,Luke Woolfenden,69,193,26,England,Ipswich Town,6,Defender,8,1,699,87,3,1,0,2,1,0,0,0,1,0,13,0,01-06-2025 05:40
+14447,Mads Hermansen,81,188,24,Denmark,Leicester City,30,Goalkeeper,16,0,1512,95,0,2,0,2,0,0,0,0,0,0,29,248,12-15-24 05:56
+577,Maeson King,0,0,19,England,Tottenham Hotspur,74,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-16-24 05:54
+14684,Malachi Hardy,78,188,16,England,Tottenham Hotspur,79,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14160,Maldini Kacurri,83,183,19,Albania,Arsenal,47,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-13-24 22:19
+14516,Manuel Akanji,91,185,29,Switzerland,Manchester City,25,Defender,16,0,1455,91,13,9,0,1,3,0,0,1,8,0,18,0,01-05-2025 05:43
+14561,Manuel Ugarte,77,183,23,Uruguay,Manchester United,25,Midfielder,14,5,855,61,22,15,0,2,5,0,0,0,4,0,13,0,01-06-2025 05:40
+14322,Marc Guiu,82,188,19,Spain,Chelsea,38,Forward,2,2,45,23,0,0,0,0,0,0,0,0,0,0,2,0,01-05-2025 05:43
+14116,Marcos Senesi,79,185,27,Argentina,AFC Bournemouth,5,Defender,11,0,963,88,16,7,0,5,4,0,0,0,3,0,15,0,12-01-2024 06:00
+14284,Marcus Bettinelli,82,193,32,England,Chelsea,13,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+25078,Marcus Myers-Harness,69,183,28,England,Ipswich Town,11,Midfielder,2,2,59,30,0,0,0,0,0,0,0,0,0,0,2,0,10-14-24 06:59
+25182,Mark O’Mahony,0,0,19,Republic of Ireland,Brighton & Hove Albion,51,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14112,Mark Travers,82,191,25,Republic of Ireland,AFC Bournemouth,42,Goalkeeper,4,0,385,96,0,0,0,0,0,0,0,0,0,0,3,53,01-05-2025 05:43
+14416,Martial Godo,60,170,21,England,Fulham,47,Forward,1,1,22,22,0,0,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14575,Martin Dúbravka,83,191,35,Slovakia,Newcastle United,1,Goalkeeper,5,0,483,97,0,1,0,0,0,0,0,0,0,0,1,41,01-05-2025 05:43
+25041,Mason Holgate,63,183,28,Jamaica,Everton,4,Defender,1,1,17,17,0,0,0,0,0,0,0,0,0,0,1,0,10-14-24 06:59
+14560,Mason Mount,76,180,26,England,Manchester United,7,Midfielder,8,4,222,28,8,4,0,0,2,0,0,2,3,0,4,0,12-16-24 05:54
+14432,Massimo Luongo,66,175,32,Australia,Ipswich Town,25,Midfielder,5,3,162,33,1,2,0,1,0,0,0,0,0,0,4,0,12-01-2024 06:00
+14584,Matt Targett,69,183,29,England,Newcastle United,13,Defender,1,1,17,17,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+14328,Matt Turner,83,191,30,USA,Crystal Palace,30,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14605,Matz Sels,74,188,32,Belgium,Nottingham Forest,26,Goalkeeper,20,0,1950,98,0,6,0,6,2,0,0,0,0,0,19,226,01-07-2025 05:42
+14117,Max Aarons,68,178,25,England,AFC Bournemouth,37,Defender,3,2,102,34,0,2,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14521,Max Alleyne,0,0,19,England,Manchester City,68,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+14125,Max Kinsey-Wellings,76,183,19,England,AFC Bournemouth,48,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14663,Maxwel Cornet,68,178,28,Ivory Coast,Southampton,22,Forward,2,1,80,40,0,1,0,0,1,0,0,0,1,0,4,0,12-05-2024 05:59
+14591,Miguel Almirón,69,175,30,Paraguay,Newcastle United,24,Midfielder,7,6,178,25,1,3,0,1,0,0,0,1,4,0,3,0,01-05-2025 05:43
+14700,Mikey Moore,74,180,17,England,Tottenham Hotspur,47,Forward,4,3,102,25,0,3,0,0,0,0,0,0,1,0,1,0,11-04-2024 22:44
+14610,Morato,87,193,23,Brazil,Nottingham Forest,4,Defender,13,11,493,38,5,1,0,2,0,0,0,0,0,0,1,0,01-07-2025 05:42
+14307,Mykhailo Mudryk,60,175,23,Ukraine,Chelsea,10,Midfielder,7,6,198,28,1,2,0,0,0,0,0,1,1,0,2,0,12-02-2024 05:58
+14170,Myles Lewis-Skelly,72,178,18,England,Arsenal,49,Midfielder,6,3,271,45,2,8,0,2,1,0,0,0,0,0,3,0,01-05-2025 05:43
+24823,Myles Peart-Harris,79,188,22,England,Brentford,25,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+24998,Naouirou Ahamada,73,183,22,France,Crystal Palace,29,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14515,Nathan Aké,74,180,29,Netherlands,Manchester City,6,Defender,8,2,529,66,2,0,0,2,0,0,0,0,3,0,7,0,01-05-2025 05:43
+14440,Nathan Broadhead,73,178,26,Wales,Ipswich Town,33,Forward,6,4,238,40,1,3,0,0,1,0,0,1,3,0,1,0,01-06-2025 05:40
+14177,Nathan Butler-Oyedeji,73,178,22,England,Arsenal,37,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14367,Nathan Patterson,83,188,23,Scotland,Everton,2,Defender,4,4,107,27,0,0,0,0,0,0,0,0,1,0,1,0,01-05-2025 05:43
+14643,Nathan Wood,74,188,22,England,Southampton,15,Defender,7,1,608,87,7,4,0,1,2,0,0,0,2,0,12,0,01-05-2025 05:43
+14329,Nathaniel Clyne,67,175,33,England,Crystal Palace,17,Defender,8,4,416,52,1,2,0,1,1,0,0,0,1,0,8,0,01-05-2025 05:43
+25076,Neal Maupay,68,173,28,France,Everton,21,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+24719,Neto,83,191,35,Brazil,AFC Bournemouth,1,Goalkeeper,2,0,194,97,0,2,0,1,0,0,0,0,0,0,2,25,10-14-24 06:59
+24719,Neto,83,191,35,Brazil,Arsenal,32,Goalkeeper,2,0,0,0,0,2,0,1,0,0,0,0,0,0,2,25,01-05-2025 05:43
+14578,Nick Pope,76,191,32,England,Newcastle United,22,Goalkeeper,15,0,1461,97,0,0,0,0,2,0,0,0,0,0,20,194,12-10-2024 05:55
+14533,Nico O'Reilly,77,188,19,England,Manchester City,75,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14622,Nicolás Domínguez,73,178,26,Argentina,Nottingham Forest,16,Midfielder,17,6,1036,61,18,9,0,4,6,0,0,4,12,0,11,0,01-07-2025 05:42
+14577,Odisseas Vlachodimos,78,188,30,Greece,Newcastle United,19,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14472,Odsonne Édouard,83,188,26,France,Leicester City,29,Forward,6,5,56,9,6,0,0,0,0,0,0,1,5,0,3,0,12-27-24 05:48
+14472,Odsonne Édouard,83,188,26,France,Crystal Palace,22,Forward,2,1,121,60,4,0,0,0,0,0,0,1,5,0,2,0,10-14-24 06:59
+14151,Oleksandr Zinchenko,63,175,28,Ukraine,Arsenal,17,Defender,7,5,267,38,7,1,0,1,1,0,0,0,1,0,0,0,01-05-2025 05:43
+14713,Oliver Scarles,74,183,19,England,West Ham United,57,Defender,2,2,51,25,0,0,0,1,0,0,0,0,0,0,1,0,01-05-2025 05:43
+14462,Oliver Skipp,69,175,24,England,Leicester City,22,Midfielder,12,5,760,63,10,11,0,1,4,0,0,1,2,0,20,0,01-05-2025 05:43
+14182,Oliwier Zych,81,193,20,Poland,Aston Villa,48,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-15-24 05:56
+14237,Paris Maghoma,68,180,23,England,Brentford,32,Midfielder,5,5,103,21,2,3,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14189,Pau Torres,79,191,27,Spain,Aston Villa,14,Defender,18,0,1679,93,6,6,0,3,1,0,0,1,8,0,29,0,12-31-24 05:43
+14665,Paul Onuachu,97,201,30,Nigeria,Southampton,32,Forward,10,6,378,38,10,7,0,1,1,0,0,4,15,0,8,0,01-05-2025 05:43
+14744,Pedro Lima,68,175,18,Brazil,Wolverhampton Wanderers,37,Defender,1,0,59,59,0,0,0,0,0,0,0,0,0,0,2,0,01-07-2025 05:42
+14129,Philip Billing,83,193,28,Denmark,AFC Bournemouth,29,Midfielder,10,9,242,24,3,2,0,1,1,0,0,1,5,0,4,0,01-05-2025 05:43
+14682,Radu Dragusin,84,191,22,Romania,Tottenham Hotspur,6,Defender,13,2,1112,86,6,7,0,0,1,0,0,1,4,0,22,0,01-05-2025 05:43
+14171,Raheem Sterling,68,173,30,England,Chelsea,0,Forward,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-15-24 05:56
+14288,Reece James,82,183,25,England,Chelsea,24,Defender,4,1,263,66,1,4,0,1,0,0,0,0,0,0,4,0,01-05-2025 05:43
+14413,Reiss Nelson,71,175,25,England,Arsenal,24,Forward,1,1,7,7,1,1,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14326,Remi Matthews,78,183,30,England,Crystal Palace,31,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-24-24 15:57
+14144,Remy Rees-Dottin,0,0,18,England,AFC Bournemouth,51,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14312,Renato Veiga,87,191,21,Portugal,Chelsea,40,Midfielder,7,6,228,33,6,1,0,0,2,0,0,1,3,0,2,0,01-05-2025 05:43
+14451,Ricardo Pereira,69,175,31,Portugal,Leicester City,21,Defender,2,0,147,73,1,3,0,0,1,0,0,0,0,0,4,0,11-02-2024 21:18
+14332,Rob Holding,81,188,29,England,Crystal Palace,4,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14283,Robert Sánchez,89,198,27,Spain,Chelsea,1,Goalkeeper,18,0,1754,97,2,2,0,4,4,0,0,0,0,0,21,185,01-05-2025 05:43
+14180,Robin Olsen,88,198,35,Sweden,Aston Villa,25,Goalkeeper,1,1,51,51,0,0,0,0,0,0,0,0,0,0,1,0,01-05-2025 05:43
+14528,Rodri,82,191,28,Spain,Manchester City,16,Midfielder,2,1,70,35,1,2,0,0,0,0,0,0,0,0,0,0,10-14-24 01:54
+14370,Roman Quintyne,64,175,20,England,Everton,75,Defender,1,0,96,96,0,0,0,0,0,0,0,0,0,0,4,0,10-20-24 11:04
+7043,Ronnie Edwards,76,180,21,England,Southampton,12,Defender,1,1,18,18,0,0,0,0,0,0,0,0,0,0,1,0,12-10-2024 05:55
+14667,Ross Stewart,84,188,28,Scotland,Southampton,11,Forward,4,3,153,38,3,5,0,0,1,0,0,0,2,0,2,0,10-13-24 22:19
+14261,Ruairi Mcconville,79,193,19,Northern Ireland,Brighton & Hove Albion,44,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-31-24 05:43
+14651,Ryan Fraser,69,163,30,Scotland,Southampton,24,Midfielder,7,3,353,50,1,4,0,1,0,1,0,1,1,0,12,0,12-27-24 05:48
+14641,Ryan Manning,66,173,28,Republic of Ireland,Southampton,3,Defender,11,2,704,64,9,17,0,5,1,0,0,0,3,0,18,0,01-05-2025 05:43
+14408,Ryan Sessegnon,69,178,24,England,Fulham,30,Midfielder,2,2,22,11,2,0,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14242,Ryan Trevitt,64,170,21,England,Brentford,28,Midfielder,1,1,9,9,0,0,0,1,0,0,0,0,0,0,0,0,12-16-24 05:54
+14517,Rúben Dias,76,188,27,Portugal,Manchester City,3,Defender,13,1,1170,90,6,3,1,2,3,0,0,4,14,0,13,0,12-16-24 05:54
+14168,Salah-Eddine Oulad M'Hand,69,178,21,Netherlands,Arsenal,56,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+25068,Sam Edmundson,74,191,27,England,Ipswich Town,4,Defender,1,1,7,7,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14731,Sam Johnstone,84,193,31,England,Wolverhampton Wanderers,31,Goalkeeper,7,0,691,99,0,0,0,1,0,0,0,0,0,0,16,78,01-07-2025 05:42
+14731,Sam Johnstone,84,193,31,England,Crystal Palace,32,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14400,Samuel Amissah,0,0,17,England,Fulham,35,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-02-2024 05:58
+14660,Samuel Amo-Ameyaw,63,175,18,England,Southampton,27,Midfielder,2,2,41,21,1,2,0,0,1,0,0,0,1,0,0,0,12-16-24 05:54
+25184,Samuel Edozie,71,180,21,England,Southampton,23,Midfielder,2,2,80,40,2,1,0,0,1,0,0,0,0,0,0,0,10-14-24 06:59
+14314,Samuel Rak-Sakyi,73,178,19,England,Chelsea,51,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-16-24 05:54
+14406,Sander Berge,96,196,26,Norway,Fulham,16,Midfielder,14,4,1038,74,10,2,0,0,2,0,0,0,1,0,13,0,12-23-24 05:53
+14736,Santiago Bueno,76,191,26,Uruguay,Wolverhampton Wanderers,4,Defender,13,1,1155,89,17,3,0,1,0,0,0,3,6,0,20,0,01-07-2025 05:42
+14509,Scott Carson,84,188,39,England,Manchester City,33,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+24841,Scott McTominay,87,193,28,Scotland,Manchester United,39,Midfielder,2,2,31,15,0,0,0,0,0,0,0,0,0,0,1,0,10-14-24 06:59
+14364,Seamus Coleman,67,178,36,Republic of Ireland,Everton,23,Defender,3,1,207,69,0,1,0,1,1,0,0,1,1,0,4,0,12-27-24 05:48
+14596,Sean Longstaff,64,180,27,England,Newcastle United,36,Midfielder,17,9,808,48,8,5,0,1,2,0,0,1,6,0,9,0,01-05-2025 05:43
+14225,Sepp van den Berg,73,188,23,Netherlands,Brentford,4,Defender,16,1,1426,89,12,4,0,0,1,0,0,3,8,0,30,0,01-05-2025 05:43
+14677,Sergio Reguilón,68,178,28,Spain,Tottenham Hotspur,3,Defender,2,2,110,55,1,4,0,1,1,0,0,0,1,0,1,0,01-05-2025 05:43
+14191,Sil Swinkels,78,191,21,Netherlands,Aston Villa,50,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14266,Solly March,87,180,30,England,Brighton & Hove Albion,7,Midfielder,1,1,9,9,0,0,0,0,0,0,0,0,1,0,0,0,01-05-2025 05:43
+14512,Spike Brits,0,0,17,England,Manchester City,80,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+14510,Stefan Ortega,87,185,32,Germany,Manchester City,18,Goalkeeper,7,0,669,96,1,1,0,1,1,0,0,0,0,0,8,82,01-05-2025 05:43
+14392,Steven Benda,83,193,26,Germany,Fulham,23,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14588,Sven Botman,81,193,24,Netherlands,Newcastle United,4,Defender,1,0,90,90,3,1,0,0,1,0,0,0,1,0,1,0,01-05-2025 05:43
+14153,Takehiro Tomiyasu,83,188,26,Japan,Arsenal,18,Defender,1,1,16,16,0,0,0,0,0,0,0,0,1,0,0,0,10-13-24 22:19
+14246,Thiago,84,191,23,Brazil,Brentford,9,Forward,4,3,147,37,3,3,0,0,0,0,0,0,1,0,2,0,12-10-2024 05:55
+25145,Thomas Cannon,63,180,22,England,Leicester City,28,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14457,Thomas Wilson-Brown,0,0,20,England,Leicester City,57,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14378,Tim Iroegbunam,69,183,21,England,Everton,42,Midfielder,6,2,417,70,10,6,0,2,2,0,0,0,4,0,13,0,10-14-24 01:54
+14562,Toby Collyer,73,180,21,England,Manchester United,43,Midfielder,1,1,51,51,0,2,0,0,0,0,0,0,0,0,1,0,01-06-2025 05:40
+14764,Tom Edozie,68,178,18,England,Wolverhampton Wanderers,74,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-24-24 15:57
+14540,Tom Heaton,84,188,38,England,Manchester United,22,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-10-2024 16:34
+14148,Tommy Setford,76,185,18,England,Arsenal,36,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-20-24 11:04
+14244,Tony Yogane,68,178,19,England,Brentford,42,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14290,Tosin Adarabioyo,79,196,27,England,Chelsea,4,Defender,9,2,681,76,3,2,0,1,1,0,0,0,4,0,8,0,01-05-2025 05:43
+14499,Trey Nyoni,74,180,17,England,Liverpool,98,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-23-24 05:53
+14130,Tyler Adams,72,173,25,USA,AFC Bournemouth,12,Midfielder,10,5,551,55,11,7,0,1,3,0,0,1,5,0,9,0,01-05-2025 05:43
+14497,Tyler Morton,74,183,22,England,Liverpool,80,Midfielder,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-15-24 05:56
+14551,Tyrell Malacia,67,170,25,Netherlands,Manchester United,12,Defender,2,0,90,45,3,2,0,0,1,0,0,0,0,0,1,0,01-06-2025 05:40
+14323,Tyrique George,74,180,18,England,Chelsea,32,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-27-24 05:48
+14185,Tyrone Mings,77,196,31,England,Aston Villa,5,Defender,3,1,269,90,1,3,0,0,1,0,0,0,3,0,3,0,01-05-2025 05:43
+14589,Valentino Livramento,64,183,22,England,Newcastle United,21,Defender,19,4,1429,75,4,19,0,3,0,0,0,0,1,0,18,0,01-05-2025 05:43
+24305,Valentín Barco,66,170,20,Argentina,Brighton & Hove Albion,19,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10-14-24 06:59
+14546,Victor Lindelöf,79,188,30,Sweden,Manchester United,2,Defender,5,5,103,21,2,0,0,0,1,0,0,0,0,0,1,0,12-16-24 05:54
+14366,Vitaliy Mykolenko,71,180,25,Ukraine,Everton,19,Defender,17,0,1561,92,14,15,0,3,2,0,0,0,10,0,21,0,01-05-2025 05:43
+14478,Vitezslav Jaros,87,191,23,Czechia,Liverpool,56,Goalkeeper,1,1,19,19,0,0,0,0,0,0,0,0,0,0,0,0,12-05-2024 05:59
+14707,Vladimír Coufal,76,175,32,Czechia,West Ham United,5,Defender,13,7,635,49,15,7,1,1,2,0,0,2,5,0,12,0,01-05-2025 05:43
+14491,Wataru Endo,76,178,31,Japan,Liverpool,3,Midfielder,8,8,114,14,5,2,0,0,0,0,0,0,0,0,0,0,01-06-2025 05:40
+14704,Wes Foderingham,74,185,33,England,West Ham United,21,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14293,Wesley Fofana,83,191,24,France,Chelsea,29,Defender,12,0,1096,91,19,15,0,1,6,0,0,0,2,0,12,0,12-02-2024 05:58
+14743,Wesley Okoduwa,67,175,16,England,Wolverhampton Wanderers,61,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01-07-2025 05:42
+14463,Will Alves,83,193,19,England,Leicester City,37,Midfielder,1,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14699,Will Lankshear,79,188,19,England,Tottenham Hotspur,42,Forward,2,2,19,10,0,0,0,0,0,0,0,0,0,0,0,0,01-05-2025 05:43
+14114,William Dennis,83,188,24,England,AFC Bournemouth,40,Goalkeeper,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14604,William Osula,81,180,21,Denmark,Newcastle United,18,Forward,6,6,73,12,1,0,0,0,0,0,0,0,0,0,1,0,01-05-2025 05:43
+14653,William Smallbone,71,183,24,Republic of Ireland,Southampton,8,Midfielder,4,1,258,64,4,1,0,1,0,0,0,0,4,0,5,0,10-20-24 11:04
+14608,Willy Boly,92,196,33,Ivory Coast,Nottingham Forest,30,Defender,4,3,143,36,1,0,0,0,1,0,0,1,1,0,1,0,01-07-2025 05:42
+14698,Wilson Odobert,76,183,20,France,Tottenham Hotspur,28,Forward,3,1,168,56,0,2,0,3,0,0,0,0,6,0,1,0,10-13-24 23:19
+14273,Yasin Ayari,68,173,21,Sweden,Brighton & Hove Albion,26,Midfielder,17,6,1089,64,19,16,0,1,3,0,0,5,15,0,13,0,01-05-2025 05:43
+14241,Yehor Yarmoliuk,72,180,20,Ukraine,Brentford,18,Midfielder,15,10,580,39,3,3,0,0,2,0,0,1,6,0,14,0,01-05-2025 05:43
+14738,Yerson Mosquera,76,188,23,Colombia,Wolverhampton Wanderers,14,Defender,5,0,476,95,6,7,0,1,2,0,0,0,2,0,12,0,10-13-24 23:19
+14389,Youssef Chermiti,83,193,20,Portugal,Everton,17,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14243,Yunus Konak,76,180,19,,Brentford,26,Midfielder,5,5,50,10,2,0,0,0,0,0,0,0,1,0,2,0,01-05-2025 05:43
+14616,Zach Abbott,69,180,18,England,Nottingham Forest,44,Defender,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12-30-24 05:52
+14356,Zach Marsh,59,175,19,England,Crystal Palace,63,Forward,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11-10-2024 06:19
